@@ -4,9 +4,8 @@ import { Popover, Transition } from '@headlessui/react'
 import {
   Bars3Icon,
   XMarkIcon,
-  SparklesIcon,
-  AcademicCapIcon,
-  
+  CubeIcon,
+  SparklesIcon
 
 } from '@heroicons/react/24/outline'
 import {GoProject } from "react-icons/go";
@@ -21,7 +20,7 @@ const solutions = [
   {
     name: 'Web3 Learning',
     href: '/blog',
-    icon: GoProject,
+    icon: CubeIcon,
   },
   { name: 'Documentation', 
     href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
