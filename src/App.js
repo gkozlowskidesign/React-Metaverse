@@ -12,14 +12,14 @@ function App() {
       <NavBar />
       <div className="content">
         <Switch>
-          <Route exact path="/" element={/}>
+          <Route exact path="/">
             <Hero/>
           </Route>
-          <Route  path="/guide"  element={<Guide/>}>
+          <Route  path="/guide">
           <Hero/>
           <Guides />
           </Route>
-          <Route  path="/blog" element={<Blog/>}>
+          <Route  path="/blog">
           <Hero />
           <Blog/>
         </Route>
