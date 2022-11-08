@@ -3,7 +3,7 @@ import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
 import Blog from "./componets/Blog";
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <NavBar />
       <div className="content">
-        <Switch>
+        <Routes>
           <Route exact path="/">
             <Hero/>
           </Route>
@@ -23,7 +23,7 @@ function App() {
           <Hero />
           <Blog/>
         </Route>
-      </Switch>
+      </Routes>
       </div>
     </div>
     </Router>
