@@ -11,19 +11,19 @@ function App() {
     <div className="App">
       <NavBar />
       <div className="content">
-        <Routes>
-          <Route exact path="/">
+        <Switch>
+          <Route exact path="/" element={Home/}>
             <Hero/>
           </Route>
-          <Route  path="/guide">
+          <Route  path="/guide"  element={<Guide/>}>
           <Hero/>
           <Guides />
           </Route>
-          <Route  path="/blog">
+          <Route  path="/blog" element={<Blog/>}>
           <Hero />
           <Blog/>
         </Route>
-      </Routes>
+      </Switch>
       </div>
     </div>
     </Router>
