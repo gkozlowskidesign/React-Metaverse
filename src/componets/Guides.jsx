@@ -12,7 +12,7 @@ const About = () => {
       <div class=" bg-gradient-to-b from-gray-900 to-gray-400  p-6 shadow-lg rounded-lg flex justify-between items-center">
                 <div class="flex">
                     <div class="-my-2 hidden md:block">
-                        <SiGithub className="shadow m-2 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-indigo-700 text-white" aria-hidden="true" />
+                        <SiGithub className="shadow m-2 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-gray-700 text-white" aria-hidden="true" />
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">GitHub</h1>
