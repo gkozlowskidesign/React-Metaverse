@@ -6,7 +6,7 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import {GoProject, GoOrganization, GoMortarBoard, GoTools } from "react-icons/go";
+import {GoOrganization, GoMortarBoard, GoTools } from "react-icons/go";
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
