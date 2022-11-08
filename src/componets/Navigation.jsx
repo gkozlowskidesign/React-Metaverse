@@ -5,7 +5,7 @@ import {
   Bars3Icon,
   XMarkIcon,
   CubeIcon,
-  AcademicCapIcon,
+  Academic-CapIcon,
 
 } from '@heroicons/react/24/outline'
 import {GoProject } from "react-icons/go";
@@ -20,7 +20,7 @@ const solutions = [
   {
     name: 'Learning',
     href: '/blog',
-    icon: AcademicCapIcon,
+    icon: Academic-CapIcon,
   },
   { name: 'Documentation', 
     href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
