@@ -2,10 +2,11 @@ import logo from '../assets/metaverseofthings_logo.png';
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import {
-  'Bars3Icon',
-  'XMarkIcon',
-  'SparklesIcon',
-  'Academic.Cap.Icon',
+  Bars3Icon,
+  XMarkIcon,
+  LinkIcon,
+  BookmarkIcon,
+  WrenchIcon,
 
 
 } from '@heroicons/react/24/outline'
@@ -13,20 +14,17 @@ import {GoProject } from "react-icons/go";
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
-  {
-    name: 'Networking',
-    href: '/guide',
-    icon: SparklesIcon,
-  },
-  {
-    name: 'Web3 Learning',
-    href: '/blog',
-    icon: AcademicCapIcon,
-  },
-  { name: 'Documentation', 
-    href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
-    icon: GoProject },
 
+  { name: 'Resources', 
+    href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
+    icon: WrenchIcon },
+  { name: 'Community',
+    href: '/guide',
+    icon: LinkIcon },
+  { name: 'Learn',
+    href: '/blog',
+    icon: BookmarkIcon },
+  
 ]
 
 
