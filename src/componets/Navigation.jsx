@@ -16,7 +16,7 @@ const solutions = [
     icon: GoOrganization,
   },
   {
-    name: 'Web3 Learning',
+    name: 'Learning',
     href: '/blog',
     icon: GoMortarBoard,
   },
