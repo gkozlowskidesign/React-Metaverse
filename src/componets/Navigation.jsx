@@ -17,13 +17,16 @@ const solutions = [
 
   { name: 'Resources', 
     href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
-    icon: WrenchIcon },
+    icon: WrenchIcon, 
+  },
   { name: 'Community',
     href: '/guide',
-    icon: LinkIcon },
+    icon: LinkIcon,
+  },
   { name: 'Learn',
     href: '/blog',
-    icon: BookmarkIcon },
+    icon: BookmarkIcon,
+  },
   
 ]
 
