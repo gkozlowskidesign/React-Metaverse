@@ -4,34 +4,27 @@ import { Popover, Transition } from '@headlessui/react'
 import {
   Bars3Icon,
   XMarkIcon,
+  CubeIcon,
+  SparklesIcon
+
 } from '@heroicons/react/24/outline'
-import { GoMarkGithub, GoOrganization, GoPerson, GoProject, GoRepo } from "react-icons/go";
+import {GoProject } from "react-icons/go";
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
-    name: 'GitHub Overview',
-    href: 'https://github.com/Metaverse-Of-Things',
-    icon: GoMarkGithub,
+    name: 'Networking',
+    href: '/guide',
+    icon: SparklesIcon,
   },
   {
-    name: 'Repositories',
-    href: 'https://github.com/orgs/Metaverse-Of-Things/repositories',
-    icon: GoRepo,
+    name: 'Web3 Learning',
+    href: '/blog',
+    icon: CubeIcon,
   },
-  { name: 'Projects', 
+  { name: 'Documentation', 
     href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
     icon: GoProject },
-  {
-    name: 'Teams',
-    href: 'https://github.com/orgs/Metaverse-Of-Things/teams',
-    icon: GoOrganization,
-  },
-  {
-    name: 'People', 
-    href: 'https://github.com/orgs/Metaverse-Of-Things/people', 
-    icon: GoPerson
-  },
 ]
 
 
@@ -41,9 +34,9 @@ function classNames(...classes) {
 
 export default function Example() {
   return (
-    <Popover className="relative bg-black">
+    <Popover className="relative bg-indigo-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
-        <div className="flex items-center justify-between border-b-2 border-black py-6 md:justify-start md:space-x-10">
+        <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
          
              
@@ -65,7 +58,7 @@ export default function Example() {
                       'group inline-flex mr-5 items-center rounded-md bg-indigo-600 text-base font-medium hover:text-gray-100 focus:outline-none focus:ring-10 focus:ring-indigo-500 focus:ring-offset-10'
                     )}
                   >
-                    <span>&nbsp;&nbsp;&nbsp;GitHub Resources</span>
+                    <span>&nbsp;&nbsp;&nbsp;Project Resources</span>
                     <ChevronDownIcon
                       className={classNames(
                         open ? 'text-white' : 'text-white',
