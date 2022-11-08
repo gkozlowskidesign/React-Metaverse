@@ -17,7 +17,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Follow Us On Medium</h1>
-                        <p class="ml-5 text-black">Follow us on Medium if you want to learn more about Web3 Tools and Blockchain Concepts.</p>
+                        <p class="ml-5 hidden md:block text-black">Follow us on Medium if you want to learn more about Web3 Tools and Blockchain Concepts.</p>
                     </div>
                 </div>
                 <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-3">Go!</button></a>
