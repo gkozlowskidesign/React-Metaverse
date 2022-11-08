@@ -16,10 +16,10 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">GitHub</h1>
-                        <p class="ml-5 hidden md:block text-black">Be first to join our community, its hard to see the vision so our whitelist will be limited.</p>
+                        <p class="ml-5 hidden md:block text-black">Be first to join our developer community.</p>
                     </div>
                 </div>
-                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-3">Go!</button></a>
+                <a href="https://github.com/Metaverse-Of-Things"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-3">Go!</button></a>
             </div>
 
         <div class=" bg-gradient-to-b from-purple-400 to-purple-600  p-6 shadow-lg rounded-lg flex justify-between items-center">
