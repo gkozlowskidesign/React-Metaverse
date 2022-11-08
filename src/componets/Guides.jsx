@@ -34,6 +34,19 @@ const About = () => {
                 </div>
                 <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-3">Go!</button></a>
             </div>
+    
+            <div class=" bg-gradient-to-b from-gray-900 to-gray-400  p-6 shadow-lg rounded-lg flex justify-between items-center">
+                <div class="flex">
+                    <div class="-my-2 hidden md:block">
+                        <SiDiscord className="shadow m-2 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-indigo-700 text-white" aria-hidden="true" />
+                        </div>
+                    <div>
+                        <h1 class="ml-5 mb-3 text-xl font-medium text-white">Discord</h1>
+                        <p class="ml-5 hidden md:block text-black">Be first to join our community, its hard to see the vision so our whitelist will be limited.</p>
+                    </div>
+                </div>
+                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-3">Go!</button></a>
+            </div>
 
             <div class=" bg-gradient-to-b from-blue-800 to-blue-500  p-6 shadow-lg rounded-lg flex justify-between items-center">
                 <div class="flex">
