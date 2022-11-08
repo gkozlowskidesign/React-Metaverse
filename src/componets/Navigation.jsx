@@ -4,30 +4,28 @@ import { Popover, Transition } from '@headlessui/react'
 import {
   Bars3Icon,
   XMarkIcon,
-  LinkIcon,
-  BookmarkIcon,
-  WrenchIcon,
-
+  SparklesIcon,
+  AcademicCapIcon,
+  
 
 } from '@heroicons/react/24/outline'
 import {GoProject } from "react-icons/go";
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
-
-  { name: 'Resources', 
-    href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
-    icon: WrenchIcon, 
-  },
-  { name: 'Community',
+  {
+    name: 'Networking',
     href: '/guide',
-    icon: LinkIcon,
+    icon: SparklesIcon,
   },
-  { name: 'Learn',
+  {
+    name: 'Web3 Learning',
     href: '/blog',
-    icon: BookmarkIcon,
+    icon: GoProject,
   },
-  
+  { name: 'Documentation', 
+    href: 'https://github.com/orgs/Metaverse-Of-Things/projects', 
+    icon: GoProject },
 ]
 
 
