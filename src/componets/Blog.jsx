@@ -2,7 +2,7 @@ import React from 'react'
 
 const Blog = () => {
   return (
-<section class="mb-10 bg-black text-gray-600 body-font">
+<section class="mb-6 bg-black text-gray-600 body-font">
     
     <section class="pt-4 pb-4 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
     <div class="mx-auto max-w-[30rem]">
