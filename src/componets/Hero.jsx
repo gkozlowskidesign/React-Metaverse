@@ -8,6 +8,7 @@ export default function Example() {
           <br></br><br></br>
         <p class="mb-8 text-lg font-medium leading-8 text-indigo-600/95">Introducing the future of Web3 Management</p>
         <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
+        <p class="mb-8 text-lg font-medium leading-8 text-white">Home</p>
         <p class="mt-10 text-lg leading-relaxed text-slate-400">
         <br></br><hr></hr><br></br>
         MOT helps unify your web3 community or organization by enabling better brand identity. 
