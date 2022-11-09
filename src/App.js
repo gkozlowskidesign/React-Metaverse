@@ -17,7 +17,6 @@ function App() {
           <Hero/>
           </Route>
           <Route  path="/guide">
-          <Hero/>
           <Guides />
           </Route>
           <Route  path="/blog">
