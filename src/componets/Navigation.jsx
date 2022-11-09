@@ -12,7 +12,7 @@ const solutions = [
   {
     name: 'Metaverse of Things',
     href: '/guide',
-    src: fire,
+    icon: fire,
   },
   {
     name: 'Networking',
