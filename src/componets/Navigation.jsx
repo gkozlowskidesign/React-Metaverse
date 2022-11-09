@@ -21,7 +21,7 @@ const solutions = [
     icon: GoMortarBoard,
   },
   { name: 'Documentation', 
-    href: 'https://metaverse-of-things.gitbook.io/introduction/', 
+    href: '/documentation', 
     icon: GoTools,
   },
 ]
