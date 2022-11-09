@@ -10,7 +10,9 @@ const Blog = () => {
           <br></br><br></br>
         <p class="mb-8 text-lg font-medium leading-8 text-indigo-600/95">Introducing the future of Web3 Management</p>
         <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
-      </div>
+        <p class="mb-8 text-lg font-medium leading-8 text-indigo-600/95">Web3 Foundations</p>
+  
+    </div>
     </div>
   </section>
  
