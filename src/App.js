@@ -23,7 +23,6 @@ function App() {
           <Blog/> 
           </Route>
           <Route  path="/documentation">
-          <Hero />
           <Documentation/>
           </Route>
       </Switch>
