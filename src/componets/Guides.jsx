@@ -33,7 +33,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Be first to join our developer community.</p>
                     </div>
                 </div>
-                <a href="https://github.com/Metaverse-Of-Things"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://github.com/Metaverse-Of-Things"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
 
         <div class=" bg-gradient-to-b from-purple-400 to-purple-600  p-6 shadow-lg rounded-2xl  flex justify-between items-center">
@@ -46,7 +46,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Follow us on Medium if you want to learn more about Web3 Tools and Blockchain Concepts.</p>
                     </div>
                 </div>
-                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
 
         <div class=" bg-gradient-to-b from-indigo-500 to-indigo-800  p-6 shadow-lg rounded-2xl flex justify-between items-center">
@@ -59,7 +59,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Be first to join our community, its hard to see the vision so our whitelist will be limited.</p>
                     </div>
                 </div>
-                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
 
             <div class=" bg-gradient-to-b from-blue-800 to-blue-500  p-6 shadow-lg rounded-2xl flex justify-between items-center">
@@ -72,7 +72,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Follow us on LinkedIn for Blockchain Career Tips, Cryptocurrency Project Publications and More!</p>
                     </div>
                 </div>
-                <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
 
 
@@ -86,7 +86,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Follow us on twitter and interact with us to learn more about the project!</p>
                     </div>
                 </div>
-                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
 
 
@@ -100,7 +100,7 @@ const About = () => {
                         <p class="ml-5 hidden md:block text-black">Follow Us on Instagram for Project Updates, Important Blockchain News and More!</p>
                     </div>
                 </div>
-                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
+                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-gradient-to-b from-black to-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-4 py-2">Go!</button></a>
             </div>
             
             <br></br>
