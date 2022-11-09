@@ -2,7 +2,7 @@
 export default function Example() {
     return (
         
-  <section class="pt-5 py-10 flex items-center h-full justify-center bg-gradient-to-b from-indigo-900 to-black">
+  <section class="pt-15 py-10 flex items-center h-full justify-center bg-gradient-to-b from-indigo-900 to-black">
     <div class="mx-auto max-w-[27.5rem]">
       <div class="text-center">
         <p class="mb-8 text-lg font-medium leading-8 text-white">Introducing the future of Web3 Management</p>
