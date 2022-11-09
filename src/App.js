@@ -20,7 +20,6 @@ function App() {
           <Guides />
           </Route>
           <Route  path="/blog">
-          <Hero />
           <Blog/> 
           </Route>
           <Route  path="/documentation">
