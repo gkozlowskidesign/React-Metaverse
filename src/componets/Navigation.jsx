@@ -6,13 +6,13 @@ import {
 
 } from '@heroicons/react/24/outline'
 import {GoOrganization, GoMortarBoard, GoTools } from "react-icons/go";
-import { Squares2X2Icon, fire } from '@heroicons/react/20/solid'
+import { Squares2X2Icon, FireIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
     name: 'Metaverse of Things',
     href: '/guide',
-    icon: fire,
+    icon: FireIcon,
   },
   {
     name: 'Networking',
