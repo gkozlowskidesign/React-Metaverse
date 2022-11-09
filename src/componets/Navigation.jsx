@@ -10,6 +10,11 @@ import { Squares2X2Icon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
+    name: 'Metaverse of Things',
+    href: '/guide',
+    src: '../assets/metaverseofthings_logo.png',
+  },
+  {
     name: 'Networking',
     href: '/guide',
     icon: GoOrganization,
