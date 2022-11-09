@@ -5,9 +5,9 @@ const About = () => {
 
 
   return (
-    <div name="about" className='w-ful h-100 py-10 bg-gradient-to-b from-indigo-900 to-black'>
+    <div name="about" className='w-ful h-100 py-2 bg-gradient-to-b from-indigo-900 to-black'>
     
-        <section class="pt-10 py-2 flex items-center h-full justify-center">
+        <section class="pt-4 pb-10 py-2 flex items-center h-full justify-center">
     <div class="mx-auto max-w-[30rem]">
       <div class="text-center">
           <br></br><br></br>
