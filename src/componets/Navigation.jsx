@@ -10,7 +10,7 @@ import { Squares2X2Icon, AcademicCapIcon, Square3Stack3DIcon, FireIcon, GlobeAme
 const solutions = [
   {
     name: 'Metaverse of Things',
-    href: '/guide',
+    href: '/MetaverseofThings',
     icon: FireIcon,
   },
   {
