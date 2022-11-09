@@ -7,15 +7,13 @@ const About = () => {
   return (
     <div name="about" className='w-ful h-100 py-2 bg-gradient-to-b from-indigo-900 to-black'>
     
-        <section class="pt-4 pb-14 py-2 flex items-center h-full justify-center">
-    <div class="mx-auto max-w-[30rem]">
+   <section class="pt-15 py-10 flex items-center h-full justify-center bg-gradient-to-b from-indigo-900 to-black">
+    <div class="mx-auto max-w-[27.5rem]">
       <div class="text-center">
-          <br></br><br></br>
-        <p class="mb-8 text-lg font-medium leading-8 text-indigo-600/95">Introducing the future of Web3 Management</p>
+        <p class="mb-8 text-lg font-medium leading-8 text-white">Introducing the future of Web3 Management</p>
         <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
-            <p class="mb-8 text-lg font-medium leading-8 text-white">Networking</p>
-  
-    </div>
+        <p class="mb-5 text-lg font-medium leading-8 text-white">Networking</p>
+      </div>
     </div>
   </section>
     
