@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Blog = () => {
+const Documentation = () => {
   return (
 <section class="mb-20 bg-black text-gray-600 body-font">
  
