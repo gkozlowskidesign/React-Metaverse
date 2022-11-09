@@ -2,9 +2,9 @@ import React from 'react'
 
 const Documentation = () => {
   return (
-<section class="mb-20 bg-black text-gray-600 body-font">
+<section class="mb-10 bg-black text-gray-600 body-font">
     
-  <section class="pt-4 pb-4 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
+  <section class="pt-4 pb-10 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
     <div class="mx-auto max-w-[30rem]">
       <div class="text-center">
           <br></br><br></br>
