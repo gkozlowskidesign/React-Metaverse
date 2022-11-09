@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div name="about" className='w-ful h-100 py-2 bg-gradient-to-b from-indigo-900 to-black'>
     
-   <section class="pt-15 py-10 flex items-center h-full justify-center bg-black">
+   <section class="pt-15 py-10 flex items-center h-full justify-center">
     <div class="mx-auto max-w-[27.5rem]">
       <div class="text-center">
         <p class="mb-8 text-lg font-medium leading-8 text-white">Introducing the future of Web3 Management</p>
