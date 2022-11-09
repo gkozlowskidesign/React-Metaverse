@@ -2,7 +2,7 @@
 export default function Example() {
     return (
         
-  <section class="pt-20 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
+  <section class="pt-20 pb-10 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
     <div class="mx-auto max-w-[30rem]">
       <div class="text-center">
           <br></br><br></br>
