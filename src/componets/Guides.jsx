@@ -6,10 +6,22 @@ const About = () => {
 
   return (
     <div name="about" className='w-ful h-100 py-40 bg-gradient-to-b from-black to-indigo-900'>
-        
+    
+        <section class="pt-20 py-2 flex items-center h-full justify-center  bg-gradient-to-b from-indigo-900 to-black">
+    <div class="mx-auto max-w-[30rem]">
+      <div class="text-center">
+          <br></br><br></br>
+        <p class="mb-8 text-lg font-medium leading-8 text-indigo-600/95">Introducing the future of Web3 Management</p>
+        <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
+      </div>
+    </div>
+  </section>
+    
+    
         <div class="max-w-screen-lg p-8 mx-auto flex flex-col justify-center w-full h-full gap-10">
     
       <div class=" bg-gradient-to-b from-gray-900 to-gray-400  p-6 shadow-lg rounded-lg flex justify-between items-center">
+   
                 <div class="flex">
                     <div class="-my-2 hidden md:block">
                         <SiGithub className="shadow m-2 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-gray-700 text-white" aria-hidden="true" />
