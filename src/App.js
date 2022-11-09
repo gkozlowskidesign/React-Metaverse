@@ -13,7 +13,7 @@ function App() {
       <NavBar />
       <div className="content">
         <Switch>
-          <Route exact path="/MetaverseofThings">
+          <Route exact path="/">
           <Hero/>
           </Route>
           <Route  path="/guide">
