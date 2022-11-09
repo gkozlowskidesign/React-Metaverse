@@ -7,7 +7,7 @@ import {
 
 } from '@heroicons/react/24/outline'
 import {GoOrganization, GoMortarBoard, GoTools } from "react-icons/go";
-import { ChevronDownIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
@@ -33,7 +33,7 @@ function classNames(...classes) {
 
 export default function Example() {
   return (
-    <Popover className="relative bg-indigo-900">
+   <Popover className="relative bg-indigo-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
@@ -42,9 +42,9 @@ export default function Example() {
             
           </div>
           <div className="-my-2 -mr-2 md:hidden">
-            <Popover.Button className="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+            <Popover.Button className="inline-flex items-center justify-center rounded-md bg-indigo-900 p-2 text-white hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
               <span className="sr-only">Open menu</span>
-              <Bars3Icon className="h-6 w-6" aria-hidden="true" />
+              <Squares2X2Icon className="h-6 w-6" aria-hidden="true" />
             </Popover.Button>
           </div>
           <Popover.Group as="nav" className="hidden space-x-10 md:flex">
@@ -54,14 +54,13 @@ export default function Example() {
                   <Popover.Button
                     className={classNames(
                       open ? 'text-gray-900' : 'text-gray-100',
-                      'group inline-flex mr-5 items-center rounded-md bg-indigo-600 text-base font-medium hover:text-gray-100 focus:outline-none focus:ring-10 focus:ring-indigo-500 focus:ring-offset-10'
+                      'group inline-flex mr-2 items-center rounded-md bg-indigo-900 text-base font-medium hover:text-gray-100 focus:outline-none focus:ring-10 focus:ring-indigo-500 focus:ring-offset-10'
                     )}
                   >
-                    <span>&nbsp;&nbsp;&nbsp;Project Resources</span>
-                    <ChevronDownIcon
+                    <Squares2X2Icon
                       className={classNames(
                         open ? 'text-white' : 'text-white',
-                        'ml-2 h-5 w-10 group-hover:text-gray-500'
+                        'h-10 w-10 group-hover:text-gray-500'
                       )}
                       aria-hidden="true"
                     />
