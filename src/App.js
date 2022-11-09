@@ -2,6 +2,7 @@ import NavBar from "./componets/Navigation";
 import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
 import Blog from "./componets/Blog";
+import Documentation from "./componets/Documentation";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -13,7 +14,7 @@ function App() {
       <div className="content">
         <Switch>
           <Route exact path="/">
-            <Hero/>
+          <Hero/>
           </Route>
           <Route  path="/guide">
           <Hero/>
@@ -21,8 +22,12 @@ function App() {
           </Route>
           <Route  path="/blog">
           <Hero />
-          <Blog/>
-        </Route>
+          <Blog/> 
+          </Route>
+          <Route  path="/documentation">
+          <Hero />
+          <Documentation/>
+          </Route>
       </Switch>
       </div>
     </div>
