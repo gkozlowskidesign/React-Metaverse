@@ -2,7 +2,6 @@ import logo from '../assets/metaverseofthings_logo.png';
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import {
-  Bars3Icon,
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
