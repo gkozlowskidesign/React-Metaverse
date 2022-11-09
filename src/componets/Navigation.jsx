@@ -5,8 +5,7 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import {GoOrganization, GoMortarBoard, GoTools } from "react-icons/go";
-import { Squares2X2Icon, FireIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon, AcademicCapIcon, Square3Stack3DIcon, FireIcon, GlobeAmericasIcon} from '@heroicons/react/20/solid'
 
 const solutions = [
   {
@@ -17,16 +16,16 @@ const solutions = [
   {
     name: 'Networking',
     href: '/guide',
-    icon: GoOrganization,
+    icon: GlobeAmericasIcon,
   },
   {
     name: 'Learning',
     href: '/blog',
-    icon: GoMortarBoard,
+    icon: AcademicCapIcon,
   },
   { name: 'Documentation', 
     href: '/documentation', 
-    icon: GoTools,
+    icon: Square3Stack3DIcon,
   },
 ]
 
