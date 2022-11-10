@@ -18,7 +18,7 @@ const About = () => {
             <p className="mb-2 text-lg font-medium leading-8 text-white">MoTeX Community</p>
             <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
             <span className='text-indigo-600'>of Things</span></h1>
-            <p className="mb-10 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
+            <p className="mb-2 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
       </div>
     </div>
 </section>
