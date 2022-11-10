@@ -21,7 +21,7 @@ function App() {
           <Guides />
           </Route>
           <Route  path="/projects">
-          <Learning/> 
+          <Learning-Projects/> 
           </Route>
           <Route  path="/documentation">
           <Documentation/>
