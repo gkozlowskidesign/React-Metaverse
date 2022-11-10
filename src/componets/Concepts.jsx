@@ -88,7 +88,7 @@ export default function Example() {
             <div className="relative overflow-hidden rounded-full py-1.5 px-4 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                   <span className="text-indigo-400">
                     MoT Blockchain and Web3 Education.{' '}
-                    <a href="#" className="font-semibold text-white">
+                    <a href="https://metaverseofthings.medium.com/" className="font-semibold text-white">
                       <span className="absolute inset-0" aria-hidden="true" />
                       Read more <span aria-hidden="true">&rarr;</span>
                     </a>
