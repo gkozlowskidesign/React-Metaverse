@@ -23,6 +23,9 @@ function App() {
           <Route  path="/projects">
           <Projects/> 
           </Route>
+          <Route  path="/concepts">
+          <Concepts/> 
+          </Route>
           <Route  path="/documentation">
           <Documentation/>
           </Route>
