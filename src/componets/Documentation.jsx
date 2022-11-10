@@ -4,7 +4,7 @@ import logo from '../assets/metaverseofthings_logo.png';
 
 const Documentation = () => {
   return (
-<section class="mb-6 bg-black text-gray-600 body-font">
+
     
 <section className='pt-10 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
     <div className="mx-auto max-w-[27.5rem]">
@@ -18,10 +18,6 @@ const Documentation = () => {
             <p className="mb-2 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
       </div>
     </div>
-</section>
- 
-   
-
 </section>
   )
 }
