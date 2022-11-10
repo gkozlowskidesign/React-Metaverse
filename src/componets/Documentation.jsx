@@ -1,4 +1,6 @@
 import React from 'react'
+import logo from '../assets/metaverseofthings_logo.png';
+
 
 const Documentation = () => {
   return (
