@@ -87,7 +87,7 @@ export default function Example() {
             <div className="relative overflow-hidden rounded-full py-1.5 px-4 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                   <span className="text-indigo-400">
                     MoT Blockchain and Web3 Education.{' '}
-                    <a href="#" className="font-semibold text-white">
+                    <a href="https://metaverseofthings.medium.com/" className="font-semibold text-white">
                       <span className="absolute inset-0" aria-hidden="true" />
                       Read more <span aria-hidden="true">&rarr;</span>
                     </a>
@@ -98,21 +98,21 @@ export default function Example() {
         <div className='p-4'> 
                <div className="mt-8 flex gap-x-4 justify-center">
                  <a
-                   href="#"
+                   href="https://metaverseofthings.medium.com/"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
                    Concepts
                    <span className="text-indigo-200" aria-hidden="true"></span>
                  </a>
                  <a
-                   href="#"
+                   href="https://metaverseofthings.medium.com/"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
                    Projects
                    <span className="text-indigo-200" aria-hidden="true"></span>
                  </a>
                  <a
-                   href="#"
+                   href="https://metaverseofthings.medium.com/"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
                    Tools
