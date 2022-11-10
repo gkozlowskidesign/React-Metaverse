@@ -80,7 +80,7 @@ export default function Example() {
                   >
                     <Popover.Panel className="absolute z-10 -ml-4 mt-5 w-screen max-w-md transform px-2 sm:px-0 lg:left-1/2 lg:ml-0 lg:-translate-x-1/2">
                       <div className="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
-                        <div className="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+                        <div className="relative grid gap-6 bg-gradient-to-b from-indigo-900 to-indigo-700 px-5 py-6 sm:gap-8 sm:p-8">
                           {solutions.map((item) => (
                             <a
                               key={item.name}
@@ -88,9 +88,9 @@ export default function Example() {
                               href={item.href}
                               className="-m-3 flex items-start rounded-lg p-5 hover:bg-gray-200"
                             >
-                              <item.icon className="h-6 w-6 flex-shrink-0 text-indigo-600" aria-hidden="true" />
+                              <item.icon className="h-6 w-6 flex-shrink-0 text-indigo-200" aria-hidden="true" />
                               <div className="ml-4">
-                                <p className="text-base font-medium text-gray-900">{item.name}</p>
+                                <p className="text-base font-medium text-white">{item.name}</p>
                               </div>
                             </a>
                           ))}
