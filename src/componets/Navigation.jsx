@@ -14,12 +14,12 @@ const solutions = [
     icon: CubeIcon,
   },
   {
-    name: 'Networking',
+    name: 'Community',
     href: '/guide',
     icon: GlobeAmericasIcon,
   },
   {
-    name: 'Learning',
+    name: 'Education',
     href: '/Projects',
     icon: AcademicCapIcon,
   },
