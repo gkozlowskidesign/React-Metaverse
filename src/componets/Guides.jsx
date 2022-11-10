@@ -7,15 +7,26 @@ const About = () => {
   return (
     <div name="about" className='w-ful h-100 py-2 bg-gradient-to-b from-indigo-900 to-black'>
     
-   <section class="pt-15 py-10 flex items-center h-full justify-center">
-    <div class="mx-auto max-w-[27.5rem]">
-     <div class="text-center">
-      <p class="mb-8 text-lg font-medium leading-8 text-white">Infrastructure That Supports The World</p>
-        <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
-        <p class="mb-5 text-lg font-medium leading-8 text-white">Community</p>
-      </div>
-    </div>
-  </section>
+      <div className="bg-black">
+
+<section className='pt-10 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
+    <div className="mx-auto max-w-[27.5rem]">
+      <div className="text-center">
+      <div className="pt-2  flex items-center justify-center ">
+            <img
+            className="h-30"
+            src={logo}                    
+            alt="MoTeX"
+            /> 
+            </div>     
+            <p className="mb-2 text-lg font-medium leading-8 text-white">MoTeX Community</p>
+        <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
+        <span className='text-indigo-600'>of Things</span></h1>
+ <p className="mb-10 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
+</div>
+</div>
+</section>
+
     
     
         <div class="max-w-screen-lg p-8 mx-auto flex flex-col justify-center w-full h-full gap-10">
