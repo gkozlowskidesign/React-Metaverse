@@ -1,4 +1,5 @@
 import React from 'react'
+import logo from '../assets/metaverseofthings_logo.png';
 import { SiDiscord, SiInstagram, SiLinkedin, SiMedium, SiTwitter, SiGithub } from "react-icons/si";
 
 const About = () => {
