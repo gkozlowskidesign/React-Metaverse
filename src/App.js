@@ -1,7 +1,8 @@
 import NavBar from "./componets/Navigation";
 import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
-import Blog from "./componets/Learning";
+import Projects from "./componets/Learning-Projects";
+import Concepts from "./componets/Learning-Concepts";
 import Documentation from "./componets/Documentation";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -19,7 +20,7 @@ function App() {
           <Route  path="/guide">
           <Guides />
           </Route>
-          <Route  path="/blog">
+          <Route  path="/projects">
           <Learning/> 
           </Route>
           <Route  path="/documentation">
