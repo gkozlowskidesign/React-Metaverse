@@ -1,7 +1,7 @@
 import NavBar from "./componets/Navigation";
 import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
-import Blog from "./componets/Blog";
+import Blog from "./componets/Learning";
 import Documentation from "./componets/Documentation";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
