@@ -98,14 +98,14 @@ export default function Example() {
         <div className='p-4'> 
                <div className="mt-8 flex gap-x-4 justify-center">
                  <a
-                   href="https://metaverseofthings.medium.com/"
+                   href="https://www.metaverseot.xyz/Concepts"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
                    Concepts
                    <span className="text-indigo-200" aria-hidden="true"></span>
                  </a>
                  <a
-                   href="https://metaverseofthings.medium.com/"
+                   href="https://www.metaverseot.xyz/Projects"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
                    Projects
