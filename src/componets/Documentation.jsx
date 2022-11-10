@@ -20,9 +20,7 @@ const Documentation = () => {
     </div>
 </section>
  
-    <div class="flex flex-wrap">
-            <iframe className='mb-40' src="https://metaverse-of-things.gitbook.io/docs/" name="iframe_a" scrolling="no" height="2800rem" width="100%" title="Iframe Example"></iframe>
-    </div>
+   
 
 </section>
   )
