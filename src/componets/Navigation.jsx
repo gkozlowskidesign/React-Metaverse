@@ -20,7 +20,7 @@ const solutions = [
   },
   {
     name: 'Learning',
-    href: '/Learning-Projects',
+    href: '/Projects',
     icon: AcademicCapIcon,
   },
   { name: 'Documentation', 
