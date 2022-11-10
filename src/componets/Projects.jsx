@@ -73,19 +73,26 @@ const products = [
 
 export default function Example() {
   return (
-    <div className="bg-gradient-to-b from-indigo-900 to-black">
+    <div className="bg-black">
 
-<section class="pt-5 py-10 flex items-center h-full justify-center">
-    <div class="mx-auto max-w-[27.5rem]">
-      <div class="text-center">
-      <p class="mb-8 text-lg font-medium leading-8 text-white">Infrastructure That Supports The World</p>
-        <h1 class="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br><span className='text-indigo-600'>of Things</span></h1>
-        <p class="mb-2 text-lg font-medium leading-8 text-white">Education</p>
-      </div>
-
+<section className='pt-10 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
+    <div className="mx-auto max-w-[27.5rem]">
+      <div className="text-center">
+      <div className="pt-2  flex items-center justify-center ">
+            <img
+            className="h-30"
+            src={logo}                    
+            alt="MoTeX"
+            /> 
+            </div>     
+            <p className="mb-2 text-lg font-medium leading-8 text-white">MoTeX Education</p>
+        <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
+        <span className='text-indigo-600'>of Things</span></h1>
+ <p className="mb-10 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
+</div>
         <div className='p-4'> 
                <div className="mt-8 flex gap-x-4 justify-center">
-                 <a
+                  <a
                    href="https://www.metaverseot.xyz/Concepts"
                    className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
                  >
@@ -100,15 +107,10 @@ export default function Example() {
                    <span className="text-indigo-200" aria-hidden="true"></span>
                  </a>
                </div>
-
         </div>
-        
-
-
-
-
     </div>
   </section>
+
 
 
 
