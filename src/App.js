@@ -1,8 +1,8 @@
 import NavBar from "./componets/Navigation";
 import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
-import Projects from "./componets/Learning-Projects";
-import Concepts from "./componets/Learning-Concepts";
+import Projects from "./componets/Projects";
+import Concepts from "./componets/Concepts";
 import Documentation from "./componets/Documentation";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -21,7 +21,7 @@ function App() {
           <Guides />
           </Route>
           <Route  path="/projects">
-          <Learning-Projects/> 
+          <Projects/> 
           </Route>
           <Route  path="/documentation">
           <Documentation/>
