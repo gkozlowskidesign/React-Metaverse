@@ -76,9 +76,9 @@ const products = [
 
 export default function Example() {
   return (
-    <div className="bg-gradient-to-b from-indigo-900 to-black">
+    <div className="bg-gradient-to-b from-indigo-900">
 
-<section className='pt-28 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
+<section className='pt-20 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
     <div className="mx-auto max-w-[27.5rem]">
       <div className="text-center">
       <div className="pt-2  flex items-center justify-center ">
