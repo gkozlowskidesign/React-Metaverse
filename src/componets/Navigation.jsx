@@ -13,15 +13,15 @@ const solutions = [
     href: '/',
     icon: CubeIcon,
   },
+   {
+    name: 'Education',
+    href: '/Projects',
+    icon: AcademicCapIcon,
+  },
   {
     name: 'Community',
     href: '/guide',
     icon: GlobeAmericasIcon,
-  },
-  {
-    name: 'Education',
-    href: '/Projects',
-    icon: AcademicCapIcon,
   },
   { name: 'Documentation', 
     href: '/documentation', 
