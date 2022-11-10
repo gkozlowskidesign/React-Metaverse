@@ -5,13 +5,13 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon, AcademicCapIcon, Square3Stack3DIcon, FireIcon, GlobeAmericasIcon} from '@heroicons/react/20/solid'
+import { Squares2X2Icon, AcademicCapIcon, Square3Stack3DIcon, CubeTransparentIcon, GlobeAmericasIcon} from '@heroicons/react/20/solid'
 
 const solutions = [
   {
-    name: 'Metaverse of Things',
+    name: 'MoTeX',
     href: '/',
-    icon: FireIcon,
+    icon: CubeTransparentIcon,
   },
   {
     name: 'Networking',
