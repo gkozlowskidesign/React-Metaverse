@@ -4,29 +4,33 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon, AcademicCapIcon, Square3Stack3DIcon, CubeIcon, GlobeAmericasIcon} from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon, Square3Stack3DIcon, GlobeAltIcon, CubeIcon, ShieldCheckIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
-    name: 'MoTeX',
-    href: '/',
-    icon: CubeIcon,
-  },
-   {
-    name: 'Education',
-    href: '/Projects',
-    icon: AcademicCapIcon,
+    name: 'Home',
+    href: '/guide',
+    icon: HomeModernIcon,
   },
   {
-    name: 'Community',
-    href: '/guide',
-    icon: GlobeAmericasIcon,
+    name: 'Get Started',
+    href: '/Blog2',
+    icon: ShieldCheckIcon,
   },
-  { name: 'Documentation', 
+  { name: 'Solutions', 
     href: '/documentation', 
-    icon: Square3Stack3DIcon,
+    icon: Square3Stack3DIcon, 
+  },
+  { name: 'Foundation', 
+    href: '/documentation', 
+    icon: CubeIcon, 
+  },
+  { name: 'Explore', 
+    href: '/documentation', 
+    icon: GlobeAltIcon, 
   },
 ]
+
 
 
 function classNames(...classes) {
