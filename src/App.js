@@ -1,6 +1,7 @@
 import NavBar from "./componets/Navigation";
 import Hero from "./componets/Hero";
 import Guides from "./componets/Guides";
+import Foundation from "./componets/Foundation";
 import Projects from "./componets/Projects";
 import Concepts from "./componets/Concepts";
 import Documentation from "./componets/Documentation";
@@ -19,6 +20,9 @@ function App() {
           </Route>
           <Route  path="/guide">
           <Guides />
+          </Route>
+          <Route  path="/foundation">
+          <Foundation />
           </Route>
           <Route  path="/projects">
           <Projects/> 
