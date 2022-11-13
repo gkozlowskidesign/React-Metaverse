@@ -22,7 +22,7 @@ const solutions = [
     icon: Square3Stack3DIcon, 
   },
   { name: 'Foundation', 
-    href: '/documentation', 
+    href: '/foundation', 
     icon: CubeIcon, 
   },
   { name: 'Explore', 
