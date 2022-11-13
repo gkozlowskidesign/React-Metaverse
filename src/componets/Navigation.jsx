@@ -14,7 +14,7 @@ const solutions = [
   },
   {
     name: 'Get Started',
-    href: '/Guides',
+    href: '/guide',
     icon: ShieldCheckIcon,
   },
   { name: 'Solutions', 
