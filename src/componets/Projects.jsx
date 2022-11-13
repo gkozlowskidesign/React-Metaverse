@@ -96,17 +96,17 @@ export default function Example() {
                <div className="mt-8 flex gap-x-4 justify-center">
                  <a
                   href="https://www.metaverseot.xyz/projects"
-                  className="inline-block rounded-lg bg-violet-500 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 active:bg-violet-500">
+                  className="inline-block rounded-lg bg-violet-500 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 active:bg-violet-500">
                   Projects
                  </a>
                  <a
                    href="https://www.metaverseot.xyz/concepts"
-                   className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 hover:bg-violet-900">
+                   className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 hover:bg-violet-900">
                    Concepts
                   </a>
                  <a
                    href="https://www.metaverseot.xyz/"
-                   className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 hover:bg-violet-900">
+                   className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 hover:bg-violet-900">
                    Systems
                  </a>
                </div>
