@@ -93,21 +93,22 @@ export default function Example() {
         <span className='text-indigo-600'>of Things</span></h1>
  <p className="mb-10 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
 </div>
-        <div className='p-4'> 
+         <div className='p-4'> 
                <div className="mt-8 flex gap-x-4 justify-center">
-                  <a
-                   href="https://www.metaverseot.xyz/Concepts"
-                   className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
-                 >
-                   Concepts
-                   <span className="text-indigo-200" aria-hidden="true"></span>
+                 <a
+                  href="https://www.metaverseot.xyz/projects"
+                  className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 active:bg-violet-900">
+                  Projects
                  </a>
                  <a
-                   href="https://www.metaverseot.xyz/Projects"
-                   className="inline-block rounded-lg bg-indigo-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-400 hover:ring-indigo-700"
-                 >
-                   Projects
-                   <span className="text-indigo-200" aria-hidden="true"></span>
+                   href="https://www.metaverseot.xyz/concepts"
+                   className="inline-block rounded-lg bg-violet-500 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 hover:bg-violet-500">
+                   Concepts
+                  </a>
+                 <a
+                   href="https://www.metaverseot.xyz/"
+                   className="inline-block rounded-lg bg-violet-900 px-5 py-3.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-200 hover:bg-violet-900">
+                   Systems
                  </a>
                </div>
         </div>
