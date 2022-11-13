@@ -9,16 +9,16 @@ import { Squares2X2Icon,  HomeModernIcon, Square3Stack3DIcon, GlobeAltIcon, Cube
 const solutions = [
   {
     name: 'Home',
-    href: '/guide',
+    href: '/',
     icon: HomeModernIcon,
   },
   {
     name: 'Get Started',
-    href: '/Blog2',
+    href: '/Guides',
     icon: ShieldCheckIcon,
   },
   { name: 'Solutions', 
-    href: '/documentation', 
+    href: '/', 
     icon: Square3Stack3DIcon, 
   },
   { name: 'Foundation', 
