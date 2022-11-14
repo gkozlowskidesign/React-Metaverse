@@ -47,7 +47,7 @@ const About = () => {
         <h1 class="px-8 text-3xl font-semibold capitalize  text-gray-800 dark:text-indigo-500 lg:text-4xl">Target Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
-            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://www.metaverseot.xyz/static/media/metaverseofthings_logo.ecd19f48919fdc4997a9.png" alt="MTOT" />
+            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/2224861/pexels-photo-2224861.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -83,10 +83,10 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Medium</h1>
-                        <p class="ml-5 text-black">Follow us on Medium if you want to learn more about Web3 Tools and Blockchain Concepts.</p>
+                        <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 border-1 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-3 shadow-lg rounded-2xl flex justify-between items-center">
@@ -96,10 +96,10 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Discord</h1>
-                        <p class="ml-5 text-black">Be first to join our community, its hard to see the vision so our whitelist will be limited.</p>
+                        <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-3 shadow-lg rounded-2xl flex justify-between items-center">
@@ -109,7 +109,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">LinkedIn</h1>
-                        <p class="ml-5 text-black">Follow us on LinkedIn for Blockchain Career Tips, Cryptocurrency Project Publications and More!</p>
+                        <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -122,10 +122,10 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Twitter</h1>
-                        <p class="ml-5 text-black">Follow us on twitter and interact with us to learn more about the project!</p>
+                        <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
 
@@ -136,10 +136,10 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5  mb-3 text-xl font-medium text-white">Instagram</h1>
-                        <p class="ml-5 text-black">Follow Us on Instagram for Project Updates, Important Blockchain News and More!</p>
+                        <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 border-2 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
             
             <br></br>
