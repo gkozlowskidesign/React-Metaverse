@@ -39,7 +39,7 @@ function classNames(...classes) {
 
 export default function Example() {
   return (
-   <Popover className="relative bg-indigo-200">
+   <Popover className="relative bg-indigo-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
@@ -128,7 +128,7 @@ export default function Example() {
             <div className="px-5 pt-5 pb-6">
               <div className="flex items-center justify-between">
                 <div className="-mr-2">
-                  <Popover.Button className="inline-flex items-center justify-center rounded-md bg-indigo-200 p-2 text-white hover:bg-indigo-200 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <Popover.Button className="inline-flex items-center justify-center rounded-md bg-indigo-900 p-2 text-white hover:bg-indigo-200 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                     <span className="sr-only">Close menu</span>
                     <XMarkIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
