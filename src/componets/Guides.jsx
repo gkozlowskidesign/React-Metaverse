@@ -29,20 +29,35 @@ const About = () => {
                     </div>
             </div>
 
-
-            <div className='w-full h-100 p-8 pb-14 mx-auto bg-gradient-to-b from-indigo-400 to-white'>
+           <div className='w-full h-100 p-8 pb-14 mx-auto bg-gradient-to-b from-indigo-400 to-'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
-                                <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Industries</h1>
-                                <div class="mt-4 grid grid-cols-1 gap-2 md:grid-cols-2 xl:mt-4 xl:grid-cols-2 xl:gap-2">
+                                <h1 class="px-8 text-3xl font-semibold capitalize  text-black lg:text-4xl">Industries</h1>
+                                <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                     <div className='mx-auto justify-center'>
-                                        <img class="h-96 w-76 rounded-lg bg-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
-                                            
-                                      
+                                        <img class="h-96 w-full rounded-lg bg-black ring-2 ring-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
+                                            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-black">XYZ Industry</h2>
+
+                                        <section className='mt-4 text-center'>
+                                        <p className="mb-10 text-lg font-medium leading-8 text-black">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>      
+                                            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+                                        </section>
                                     </div>
                                     <div className='mx-auto justify-center'>
-                                        <img class="h-96 w-76 rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
-                                   
+                                        <img class="h-96 w-full  rounded-lg  bg-black ring-2 ring-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+                                            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-black">XYZ Industry</h2>
+                                            <section className='mt-4 text-center'>
+                                            <p className="mb-10 text-lg font-medium leading-8 text-black">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>      
+                                            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+                                        </section>
+                                    </div>
+                                    <div className='mx-auto justify-center'>
+                                        <img class="h-96 w-full  rounded-lg  bg-black ring-2 ring-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+                                            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-black">XYZ Industry</h2>
+                                            <section className='mt-4 text-center'>
+                                        <p className="mb-10 text-lg font-medium leading-8 text-black">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>      
+                                            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+                                        </section>
                                     </div>
                                 
 
