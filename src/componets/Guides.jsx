@@ -47,7 +47,7 @@ const About = () => {
         <h1 class="px-8 text-3xl font-semibold capitalize  text-gray-800 dark:text-indigo-500 lg:text-4xl">Target Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
-            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -65,7 +65,7 @@ const About = () => {
         </div>
 
         <div>
-        <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+        <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Data</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -86,7 +86,7 @@ const About = () => {
                         <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 border-1 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-3 shadow-lg rounded-2xl flex justify-between items-center">
@@ -99,7 +99,7 @@ const About = () => {
                         <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-3 shadow-lg rounded-2xl flex justify-between items-center">
@@ -125,7 +125,7 @@ const About = () => {
                         <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
 
 
@@ -139,7 +139,7 @@ const About = () => {
                         <p class="ml-5 text-black">Follow us on all platforms!</p>
                     </div>
                 </div>
-                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
             </div>
             
             <br></br>
@@ -175,7 +175,7 @@ const About = () => {
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
-            <span class="rounded-full bg-blue-500 text-white">
+            <span class="rounded-full bg-black text-white">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
                 </svg>
@@ -187,7 +187,7 @@ const About = () => {
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
-            <span class="rounded-full bg-blue-500 text-white">
+            <span class="rounded-full bg-black text-white">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
                 </svg>
@@ -199,7 +199,7 @@ const About = () => {
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
-            <span class="rounded-full bg-blue-500 text-white">
+            <span class="rounded-full bg-black text-white">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
                 </svg>
@@ -211,7 +211,7 @@ const About = () => {
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
-            <span class="rounded-full bg-blue-500 text-white">
+            <span class="rounded-full bg-black text-white">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
                 </svg>
