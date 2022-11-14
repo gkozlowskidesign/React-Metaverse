@@ -19,7 +19,7 @@ const About = () => {
       <div className="pt-2  flex items-center justify-center ">
             <img
             className="h-30"
-            src={logo}                    
+            src={Logo}                    
             alt="MoTeX"
             /> 
             </div>     
