@@ -39,7 +39,7 @@ function classNames(...classes) {
 
 export default function Example() {
   return (
-   <Popover className="relative bg-indigo-900">
+   <Popover className="relative bg-indigo-600">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
