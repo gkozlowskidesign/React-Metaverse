@@ -13,7 +13,7 @@ const About = () => {
     
     
     
-    <section className='pt-10 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
+    <section className='pt-10 py-80 flex items-center h-100 justify-center'>
     <div className="mx-auto max-w-[27.5rem]">
       <div className="text-center">
       <div className="pt-2  flex items-center justify-center ">
