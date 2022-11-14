@@ -13,7 +13,7 @@ const About = () => {
     <section>
     <h1 class="px-8 text-3xl font-bold text-gray-800 dark:text-indigo-500 lg:text-4xl">Get Started</h1>
     <div class="mt-2 flex justify-center">
-    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://www.solanaecosystemapp.com/src/img/index/hero-wide.jpg" />
+    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://www.solanaecosystemapp.com/src/img/index/hero-wide.jpg" alt="background" />
     </div>
     <div class="container mb-10 mx-auto text-right px-9">
     </div>
