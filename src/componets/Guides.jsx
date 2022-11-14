@@ -10,6 +10,27 @@ const About = () => {
         
     <div class="max-w-screen-lg p-8 mx-auto flex flex-col justify-center w-full h-full gap-10">
     
+    
+    
+    <section className='pt-10 py-80 flex items-center h-100 justify-center bg-gradient-to-b from-indigo-900 to-black'>
+    <div className="mx-auto max-w-[27.5rem]">
+      <div className="text-center">
+      <div className="pt-2  flex items-center justify-center ">
+            <img
+            className="h-30"
+            src={logo}                    
+            alt="MoTeX"
+            /> 
+            </div>     
+            <p className="mb-2 text-lg font-medium leading-8 text-white">MoTeX Education</p>
+        <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
+        <span className='text-indigo-600'>of Things</span></h1>
+ <p className="mb-10 text-lg font-medium leading-8 text-white">Future Infrastructure</p>      
+</div>
+</div>
+</section>
+
+    
     <section>
     <h1 class="px-8 text-3xl font-bold text-gray-800 dark:text-indigo-500 lg:text-4xl">Get Started</h1>
     <div class="mt-2 flex justify-center">
