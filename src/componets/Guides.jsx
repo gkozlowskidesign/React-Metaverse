@@ -1,6 +1,5 @@
 import React from 'react'
 import Logo from "../assets/metaverseofthings_logo.png"
-import Mirror from "../assets/Mirror.png"
 import { SiDiscord, SiInstagram, SiLinkedin, SiMedium, SiTwitter } from "react-icons/si";
 
 const About = () => {
