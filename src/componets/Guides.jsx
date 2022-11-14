@@ -33,7 +33,7 @@ const About = () => {
             <div className='w-full h-100 p-8 pb-14 mx-auto bg-gradient-to-b from-indigo-400 to-white'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
-                                <h1 class="px-8 text-3xl font-semibold capitalize  text-indigo-900 lg:text-4xl">Industries</h1>
+                                <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Industries</h1>
                                 <div class="mt-4 grid grid-cols-1 gap-2 md:grid-cols-2 xl:mt-4 xl:grid-cols-2 xl:gap-2">
                                     <div className='mx-auto justify-center'>
                                         <img class="h-96 w-76 rounded-lg bg-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
