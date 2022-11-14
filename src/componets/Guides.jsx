@@ -34,7 +34,7 @@ const About = () => {
     <section>
     <h1 class="px-8 text-3xl font-bold text-white lg:text-4xl">Get Started</h1>
     <div class="mt-2 flex justify-center">
-    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://external-preview.redd.it/OElWC3nUr6prKHKXopK8d4vqDa1-mJ21_b0XTiULFL0.png?width=640&crop=smart&auto=webp&s=47e87828139ef97f823050dc7174091973162a67" alt="background" />
+    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://s3.envato.com/files/ae6e7b5c-6644-4ab8-8cc0-abd287ef9cf1/inline_image_preview.jpg" alt="background" />
     </div>
     <div class="container mb-10 mx-auto text-right px-9">
     </div>
@@ -48,7 +48,7 @@ const About = () => {
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
             <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
-            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social</h2>
+            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social Impact</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
@@ -57,7 +57,7 @@ const About = () => {
 
         <div>
         <img class="h-86 w-full rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
-            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Industrial</h2>
+            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Industrial Safety</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
@@ -66,7 +66,7 @@ const About = () => {
 
         <div>
         <img class="h-86 w-full rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
-            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Data</h2>
+            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Data Validation</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
@@ -83,7 +83,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Medium</h1>
-                        <p class="ml-5 text-black">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -96,7 +96,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Discord</h1>
-                        <p class="ml-5 text-black">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -109,7 +109,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">LinkedIn</h1>
-                        <p class="ml-5 text-black">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -122,7 +122,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Twitter</h1>
-                        <p class="ml-5 text-black">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -136,7 +136,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5  mb-3 text-xl font-medium text-white">Instagram</h1>
-                        <p class="ml-5 text-black">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -171,7 +171,7 @@ const About = () => {
             <p class="p-8 text-sm text-gray-500 dark:text-gray-300">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
+        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -183,7 +183,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
+        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -195,7 +195,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
+        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -207,7 +207,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
+        <div class="rounded-lg border-2 bborder-indigo-900 dark:border-indigo-900">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
