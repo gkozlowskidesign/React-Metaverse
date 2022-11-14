@@ -47,7 +47,7 @@ const About = () => {
         <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Target Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
-            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
+            <img class="h-86 w-full rounded-lg bg-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social Impact</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -83,7 +83,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Medium</h1>
-                        <p class="ml-5 text-white">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
