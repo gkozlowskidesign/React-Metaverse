@@ -47,10 +47,10 @@ const About = () => {
         <h1 class="px-8 text-3xl font-semibold capitalize  text-gray-800 dark:text-indigo-500 lg:text-4xl">Target Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
-            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+            <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Social</h2>
             <section className='mt-4 text-center'>
-            <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
             </section>
         </div>
@@ -59,7 +59,7 @@ const About = () => {
         <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Industrial</h2>
             <section className='mt-4 text-center'>
-            <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
             </section>
         </div>
@@ -68,7 +68,7 @@ const About = () => {
         <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Data</h2>
             <section className='mt-4 text-center'>
-            <button class="mt-1 rounded-lg bg-gradient-to-b from-black to-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
+            <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
 
             </section>
         </div>
@@ -155,7 +155,7 @@ const About = () => {
         <h1 class="text-center text-4xl font-semibold text-gray-800 dark:text-white">Frequently asked questions</h1>
 
         <div class="mt-12 space-y-8">
-        <div class="rounded-lg border-2 border-gray-100 dark:border-gray-700">
+        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -171,7 +171,7 @@ const About = () => {
             <p class="p-8 text-sm text-gray-500 dark:text-gray-300">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>
         </div>
 
-        <div class="rounded-lg border-2 border-gray-100 dark:border-gray-700">
+        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -183,7 +183,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-gray-100 dark:border-gray-700">
+        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -195,7 +195,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-gray-100 dark:border-gray-700">
+        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -207,7 +207,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-gray-100 dark:border-gray-700">
+        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
