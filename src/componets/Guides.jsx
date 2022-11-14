@@ -37,12 +37,11 @@ const About = () => {
                                 <div class="mt-4 grid grid-cols-1 gap-2 md:grid-cols-2 xl:mt-4 xl:grid-cols-2 xl:gap-2">
                                     <div className='mx-auto justify-center'>
                                         <img class="h-96 w-76 rounded-lg bg-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
-                                            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-black">XYZ</h2>
+                                            
                                       
                                     </div>
                                     <div className='mx-auto justify-center'>
                                         <img class="h-96 w-76 rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
-                                            <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-black">XYZ</h2>
                                    
                                     </div>
                                 
