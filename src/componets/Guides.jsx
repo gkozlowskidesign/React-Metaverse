@@ -29,7 +29,7 @@ const About = () => {
                     </div>
             </div>
 
-           <div className='w-full h-100 p-8 pb-14 mx-auto bg-gradient-to-b from-indigo-400 to-'>
+           <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-400 to-'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <h1 class="px-8 text-3xl font-semibold capitalize  text-black lg:text-4xl">Industries</h1>
@@ -69,7 +69,7 @@ const About = () => {
 
 
             
-            <div className='w-full h-100 max-w-screen-lg p-8 mx-auto mb-20 bg-white'> 
+            <div className='w-full h-100 max-w-screen-lg p-8 mx-auto mb-10 bg-white'> 
                         <section className='flex flex-col justify-center  gap-10'>
                             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
                                 <div class="flex">
