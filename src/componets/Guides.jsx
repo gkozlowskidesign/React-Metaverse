@@ -6,7 +6,7 @@ const About = () => {
 
 
   return (
-    <div name="about" className='w-full h-100 py-2 bg-gradient-to-b from-indigo-900 to-black'>
+    <div name="about" className='w-full h-100 py-2 bg-gradient-to-b from-indigo-600 to-black'>
         
     <div class="max-w-screen-lg p-8 mx-auto flex flex-col justify-center w-full h-full gap-10">
     
@@ -44,7 +44,7 @@ const About = () => {
 
     <section>
     <div class="container mx-auto mb-20">
-        <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Target Industries</h1>
+        <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
             <img class="h-86 w-full rounded-lg bg-black object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
@@ -96,7 +96,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Discord</h1>
-                        <p class="ml-5 text-white">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -109,7 +109,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">LinkedIn</h1>
-                        <p class="ml-5 text-white">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -122,7 +122,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5 mb-3 text-xl font-medium text-white">Twitter</h1>
-                        <p class="ml-5 text-white">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -136,7 +136,7 @@ const About = () => {
                         </div>
                     <div>
                         <h1 class="ml-5  mb-3 text-xl font-medium text-white">Instagram</h1>
-                        <p class="ml-5 text-white">Follow us on all platforms!</p>
+                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                     </div>
                 </div>
                 <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
@@ -155,7 +155,7 @@ const About = () => {
         <h1 class="text-center text-4xl font-semibold text-gray-800 dark:text-white">Frequently asked questions</h1>
 
         <div class="mt-12 space-y-8">
-        <div class="rounded-lg border-2 border-indigo-200 dark:border-indigo-200">
+        <div class="rounded-lg border-2 border-indigo-400 dark:border-indigo-400">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -171,7 +171,7 @@ const About = () => {
             <p class="p-8 text-sm text-gray-500 dark:text-gray-300">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas eaque nobis, fugit odit omnis fugiat deleniti animi ab maxime cum laboriosam recusandae facere dolorum veniam quia pariatur obcaecati illo ducimus?</p>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
+        <div class="rounded-lg border-2 border-indigo-400 dark:border-indigo-400">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -183,7 +183,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
+        <div class="rounded-lg border-2 border-indigo-400 dark:border-indigo-400">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -195,7 +195,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 border-indigo-900 dark:border-indigo-900">
+        <div class="rounded-lg border-2 border-indigo-400 dark:border-indigo-400">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
@@ -207,7 +207,7 @@ const About = () => {
             </button>
         </div>
 
-        <div class="rounded-lg border-2 bborder-indigo-900 dark:border-indigo-900">
+        <div class="rounded-lg border-2 border-indigo-400 dark:border-indigo-400">
             <button class="flex w-full items-center justify-between p-8">
             <h1 class="font-semibold text-gray-700 dark:text-white">What is the Metaverse of Things?</h1>
 
