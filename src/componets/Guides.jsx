@@ -32,9 +32,9 @@ const About = () => {
 
     
     <section>
-    <h1 class="px-8 text-3xl font-bold text-gray-800 dark:text-indigo-500 lg:text-4xl">Get Started</h1>
+    <h1 class="px-8 text-3xl font-bold text-white lg:text-4xl">Get Started</h1>
     <div class="mt-2 flex justify-center">
-    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://www.solanaecosystemapp.com/src/img/index/hero-wide.jpg" alt="background" />
+    <img class="h-96 w-full rounded-xl ring-1 ring-indigo-700 object-cover lg:w-12/12" src="https://external-preview.redd.it/OElWC3nUr6prKHKXopK8d4vqDa1-mJ21_b0XTiULFL0.png?width=640&crop=smart&auto=webp&s=47e87828139ef97f823050dc7174091973162a67" alt="background" />
     </div>
     <div class="container mb-10 mx-auto text-right px-9">
     </div>
@@ -44,7 +44,7 @@ const About = () => {
 
     <section>
     <div class="container mx-auto mb-20">
-        <h1 class="px-8 text-3xl font-semibold capitalize  text-gray-800 dark:text-indigo-500 lg:text-4xl">Target Industries</h1>
+        <h1 class="px-8 text-3xl font-semibold capitalize  text-white lg:text-4xl">Target Industries</h1>
         <div class="mt-4 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-5">
         <div>
             <img class="h-86 w-full rounded-lg bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=800" alt="MTOT" />
@@ -56,7 +56,7 @@ const About = () => {
         </div>
 
         <div>
-        <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+        <img class="h-86 w-full rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/4966809/pexels-photo-4966809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Industrial</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -65,7 +65,7 @@ const About = () => {
         </div>
 
         <div>
-        <img class="h-86 w-full rounded-lg  bg-black ring-1 ring-indigo-700 object-cover" src="https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
+        <img class="h-86 w-full rounded-lg  bg-black object-cover" src="https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="MTOT" />
             <h2 class="mt-4 text-center text-2xl font-semibold capitalize text-gray-800 dark:text-white">Data</h2>
             <section className='mt-4 text-center'>
             <button class="mt-1 rounded-lg bg-indigo-900 ring-1 ring-indigo-500 px-6 py-4 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-blue-500 focus:outline-none lg:mx-0 lg:w-auto">Visit Page</button>
@@ -76,7 +76,7 @@ const About = () => {
     </div>
     </section>
 
-    <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 ring-indigo-800 p-3 shadow-lg rounded-2xl flex justify-between items-center">
+    <div class=" bg-gradient-to-b from-black to-indigo-700 p-3 shadow-lg rounded-2xl flex justify-between items-center">
                 <div class="flex">
                     <div class="-my-2 hidden md:block">
                         <SiMedium className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-black text-white" aria-hidden="true" />
