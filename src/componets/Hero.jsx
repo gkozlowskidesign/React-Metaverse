@@ -46,7 +46,7 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-800'>
+            <div className='w-full h-100 p-6 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-800'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Componets</h1>
