@@ -91,76 +91,7 @@ const About = () => {
 
 
             
-            <div className='w-full px-14 h-100 bg-gradient-to-b from-indigo-800 to-black'> 
-            <section className='p-10 w-full container mx-auto flex flex-col justify-center gap-10'>
-            <h1 class="px-8 text-4xl font-semibold capitalize text-left text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Social</h1>
-                   
-                            <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
-                                <div class="flex">
-                                    <div class="-my-2 hidden md:block">
-                                        <SiMedium className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-black text-white" aria-hidden="true" />
-                                        </div>
-                                    <div>
-                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Medium</h1>
-                                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
-                                    </div>
-                                </div>
-                                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
-                            </div>
-
-                            <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
-                                <div class="flex">
-                                    <div class="-my-2 hidden md:block">
-                                        <SiDiscord className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-indigo-700 text-white" aria-hidden="true" />
-                                        </div>
-                                    <div>
-                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Discord</h1>
-                                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
-                                    </div>
-                                </div>
-                                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1  ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
-                            </div>
-
-                            <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
-                                <div class="flex">
-                                    <div class="-my-2 hidden md:block">
-                                        <SiLinkedin className="shadow  mt-4 ml-4 border-2 sm:w-12 sm:h-12  w-14 h-14 p-2 rounded bg-blue-900 text-white" aria-hidden="true" />
-                                        </div>
-                                    <div>
-                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">LinkedIn</h1>
-                                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
-                                    </div>
-                                </div>
-                                <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
-                            </div>
-
-                            <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
-                                <div class="flex">
-                                    <div class="-my-2 hidden md:block">
-                                        <SiTwitter className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-blue-400 text-white" aria-hidden="true" />
-                                        </div>
-                                    <div>
-                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Twitter</h1>
-                                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
-                                    </div>
-                                </div>
-                                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
-                            </div>
-
-
-                            <div class="mb-40 bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
-                                <div class="flex">
-                                    <div class="-my-2 hidden md:block">
-                                        <SiInstagram className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-red-500 text-white" aria-hidden="true" />
-                                        </div>
-                                    <div>
-                                        <h1 class="ml-2  mb-1 text-xl font-medium text-white">Instagram</h1>
-                                        <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
-                                    </div>
-                                </div>
-                                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
-                            </div>
-                        </section>
+     
             </div>
 
     </div>
