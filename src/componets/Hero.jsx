@@ -107,7 +107,7 @@ const About = () => {
 
             
             <div className='w-full px-14 h-100 bg-gradient-to-b from-indigo-800 to-black'> 
-            <section className='p-6 w-full container mx-auto flex flex-col justify-center gap-10'>
+            <section className='p-4 w-full container mx-auto flex flex-col justify-center gap-10'>
             <h1 class="px-8 text-4xl font-semibold capitalize text-left text-white lg:text-5xl">MVoT Social</h1>
                    
                             <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
