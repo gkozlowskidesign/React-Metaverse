@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from "../assets/metaverseofthings_logo.png"
 import { SiDiscord, SiInstagram, SiLinkedin, SiMedium, SiTwitter } from "react-icons/si";
-import {  BiCheckShield, BiWifi, BiRefresh, BiSelection, BiShapePolygon, BiShowAlt, BiShieldAlt2, BiReset  } from "react-icons/bi";
+import {BiWifi, BiShieldAlt2, BiReset  } from "react-icons/bi";
 
 const About = () => {
 
