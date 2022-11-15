@@ -120,7 +120,7 @@ const About = () => {
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
-                                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                                <a href="https://metaverseofthings.medium.com/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 font-bold border-indigo-300 hover:opacity-75 text-white rounded-xl px-8 py-2">Follow</button></a>
                             </div>
 
                             <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
@@ -133,7 +133,7 @@ const About = () => {
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
-                                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1  ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                                <a href="https://discord.gg/BPqsEMdjDW"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 font-bold border-indigo-300 hover:opacity-75 text-white rounded-xl px-8 py-2">Follow</button></a>
                             </div>
 
                             <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
@@ -146,7 +146,7 @@ const About = () => {
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
-                                <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                                <a href="https://www.linkedin.com/company/metaverse-of-things/?viewAsMember=true"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 font-bold border-indigo-300 hover:opacity-75 text-white rounded-xl px-8 py-2">Follow</button></a>
                             </div>
 
                             <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
@@ -159,7 +159,7 @@ const About = () => {
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
-                                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                                <a href="https://twitter.com/metaverseot"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 font-bold border-indigo-300 hover:opacity-75 text-white rounded-xl px-8 py-2">Follow</button></a>
                             </div>
 
 
@@ -173,7 +173,7 @@ const About = () => {
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
-                                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-2 font-bold border-indigo-300 hover:opacity-75 text-white rounded-full px-6 py-2">Follow</button></a>
+                                <a href="https://www.instagram.com/metaverseofthings/"><button class="ml-4 bg-indigo-900 ring-1 ring-indigo-500 border-1 font-bold border-indigo-300 hover:opacity-75 text-white rounded-xl px-8 py-2">Follow</button></a>
                             </div>
                         </section>
             </div>
