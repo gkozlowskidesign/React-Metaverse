@@ -30,7 +30,7 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-14 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-900'>
+            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-900'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Industries</h1>
@@ -74,8 +74,8 @@ const About = () => {
 
 
             
-            <div className='w-full px-4 h-100 bg-gradient-to-b from-indigo-900 to-black'> 
-            <section className='w-full container mx-auto flex flex-col justify-center gap-10'>
+            <div className='w-full px-14 h-100 bg-gradient-to-b from-indigo-900 to-black'> 
+            <section className=' w-full container mx-auto flex flex-col justify-center gap-10'>
             <h1 class="px-8 text-4xl font-semibold capitalize text-left text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Social</h1>
                    
                             <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 border-2 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
@@ -84,7 +84,7 @@ const About = () => {
                                         <SiMedium className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-black text-white" aria-hidden="true" />
                                         </div>
                                     <div>
-                                        <h1 class="ml-5 mb-3 text-xl font-medium text-white">Medium</h1>
+                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Medium</h1>
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
@@ -97,7 +97,7 @@ const About = () => {
                                         <SiDiscord className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-indigo-700 text-white" aria-hidden="true" />
                                         </div>
                                     <div>
-                                        <h1 class="ml-5 mb-3 text-xl font-medium text-white">Discord</h1>
+                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Discord</h1>
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
@@ -110,7 +110,7 @@ const About = () => {
                                         <SiLinkedin className="shadow  mt-4 ml-4 border-2 sm:w-12 sm:h-12  w-14 h-14 p-2 rounded bg-blue-900 text-white" aria-hidden="true" />
                                         </div>
                                     <div>
-                                        <h1 class="ml-5 mb-3 text-xl font-medium text-white">LinkedIn</h1>
+                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">LinkedIn</h1>
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@ const About = () => {
                                         <SiTwitter className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-blue-400 text-white" aria-hidden="true" />
                                         </div>
                                     <div>
-                                        <h1 class="ml-5 mb-3 text-xl font-medium text-white">Twitter</h1>
+                                        <h1 class="ml-2 mb-1 text-xl font-medium text-white">Twitter</h1>
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
@@ -131,13 +131,13 @@ const About = () => {
                             </div>
 
 
-                            <div class="mb-40  bg-gradient-to-b from-black to-indigo-700 ring-1 border-2 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
+                            <div class="mb-40 bg-gradient-to-b from-black to-indigo-700 ring-1 border-2 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
                                 <div class="flex">
                                     <div class="-my-2 hidden md:block">
                                         <SiInstagram className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-red-500 text-white" aria-hidden="true" />
                                         </div>
                                     <div>
-                                        <h1 class="ml-5  mb-3 text-xl font-medium text-white">Instagram</h1>
+                                        <h1 class="ml-2  mb-1 text-xl font-medium text-white">Instagram</h1>
                                         <p class="ml-5 text-white hidden md:block">Follow us on all platforms!</p>
                                     </div>
                                 </div>
