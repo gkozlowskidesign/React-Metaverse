@@ -48,12 +48,13 @@ const About = () => {
 
             <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-800'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
+                        <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Componets</h1>
+
                             <div class="container mx-auto mb-20">
-                                <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Componets</h1>
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                 
-                                  <div className='mx-auto justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart-BuildingFi</h2>
+                                  <div className='justify-center'>
+                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Buildings</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                         <BiHive class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
@@ -66,8 +67,8 @@ const About = () => {
                                         </section>
                                     </div>
                                    
-                                    <div className='mx-auto justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart-InfraFi</h2>
+                                    <div className='justify-center'>
+                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Infrastructure</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                         <BiShieldAlt2 class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
@@ -81,8 +82,8 @@ const About = () => {
                                     </div>
                                 
                                    
-                                    <div className='mx-auto justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart-MaintenanceFi</h2>
+                                    <div className='justify-center'>
+                                    <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Maintenance</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                     <BiReset class="p-6 h-full w-full  text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
