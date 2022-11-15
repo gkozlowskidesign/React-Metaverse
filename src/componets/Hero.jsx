@@ -32,7 +32,6 @@ const About = () => {
 
             <div className='w-full h-100 p-8 pb-10 mx-auto bg-white'>
             <section className='mt-2 flex flex-col justify-center gap-2'>
-                    <h1 class="px-8 mt-3 text-4xl font-semibold capitalize text-left text-black lg:text-5xl">MVoT Systems</h1>
                     <div className="mt-10 flex justify-center">
                     <img className="h-96 w-full rounded-xl object-cover lg:w-4/5" alt="smart-city" src="https://images.pexels.com/photos/755405/pexels-photo-755405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
                     </div>
@@ -46,7 +45,7 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-4 mx-auto bg-white'>
+            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-800'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                         <h1 class="px-8 text-4xl font-semibold capitalize text-right text-black lg:text-5xl">MVoT Componets</h1>
 
