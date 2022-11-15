@@ -30,7 +30,7 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-900'>
+            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-black'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Industries</h1>
@@ -74,7 +74,7 @@ const About = () => {
 
 
             
-            <div className='w-full px-14 h-100 bg-gradient-to-b from-indigo-900 to-black'> 
+            <div className='w-full px-14 h-100 bg-gradient-to-b from-black via-indigo-800 to-black'> 
             <section className=' w-full container mx-auto flex flex-col justify-center gap-10'>
             <h1 class="px-8 text-4xl font-semibold capitalize text-left text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Social</h1>
                    
