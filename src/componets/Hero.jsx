@@ -8,7 +8,7 @@ const Hero = () => {
 
   return (
     <div>
-            <div name="about" className='w-full h-100 bg-gradient-to-b from-indigo-900 to-indigo-600'>
+                  <div name="about" className='w-full h-100 bg-gradient-to-b from-indigo-900 to-indigo-600'>
         
                     <div class="w-full h-full  max-w-screen-lg p-6 mx-auto flex flex-col justify-center gap-2 ">
                         <section className='pt-10 py-40 flex items-center h-100 justify-center'>
@@ -177,6 +177,8 @@ const Hero = () => {
                             </div>
                         </section>
             </div>
+
+</div>
 
     </div>
    
