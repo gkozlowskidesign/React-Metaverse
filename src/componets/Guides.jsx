@@ -131,7 +131,7 @@ const About = () => {
                             </div>
 
 
-                            <div class=" bg-gradient-to-b from-black to-indigo-700 ring-1 border-2 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
+                            <div class="mb-40  bg-gradient-to-b from-black to-indigo-700 ring-1 border-2 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
                                 <div class="flex">
                                     <div class="-my-2 hidden md:block">
                                         <SiInstagram className="shadow mt-4 ml-4 border-2 sm:w-12 sm:h-12 w-14 h-14 p-2 rounded bg-red-500 text-white" aria-hidden="true" />
