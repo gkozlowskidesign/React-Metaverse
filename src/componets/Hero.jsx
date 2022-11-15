@@ -53,7 +53,7 @@ const About = () => {
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                 
                                   <div className='mx-auto justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Buildings</h2>
+                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">BuildingFi</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                         <BiHive class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
@@ -67,7 +67,7 @@ const About = () => {
                                     </div>
                                    
                                     <div className='mx-auto justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Infrastructure</h2>
+                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">InfraFi</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                         <BiShieldAlt2 class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
@@ -82,7 +82,7 @@ const About = () => {
                                 
                                    
                                     <div className='mx-auto justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Maintenance</h2>
+                                    <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">MachineFi</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
                                     <BiReset class="p-6 h-full w-full  text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
