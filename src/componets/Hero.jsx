@@ -34,7 +34,7 @@ const About = () => {
             <section className='mt-2 flex flex-col justify-center gap-2'>
 
                     <div className="mt-10 flex justify-center">
-                    <img className="h-96 w-full rounded-xl object-cover lg:w-4/5" alt="smart-city" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+                    <img className="h-96 w-full rounded-xl object-cover lg:w-4/5" alt="smart-city" src="https://images.pexels.com/photos/755405/pexels-photo-755405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
                     </div>
                     <div className="mx-auto max-w-lg">
                          <h1 className="text-3xl mt-10 font-bold text-gray-800 dark:text-black lg:text-4xl">Building Your Next Application with our awesome Blockchain IoT Web3 Components</h1>
