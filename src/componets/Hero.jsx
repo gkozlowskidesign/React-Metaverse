@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from "../assets/metaverseofthings_logo.png"
 import { SiDiscord, SiInstagram, SiLinkedin, SiMedium, SiTwitter } from "react-icons/si";
-import {  BiWifi, BiShieldAlt2, BiReset  } from "react-icons/bi";
+import {  BiHive, BiShieldAlt2, BiReset  } from "react-icons/bi";
 
 const About = () => {
 
@@ -55,7 +55,7 @@ const About = () => {
                                   <div className='mx-auto justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-white dark:text-white">Smart Buildings</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiHive class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                         <section className='mt-4 h-3/6 w-4/5 mx-auto'>
                                         <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting indiviudally 
