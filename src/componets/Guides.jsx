@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from "../assets/metaverseofthings_logo.png"
-import {BiWifi, BiShieldAlt2, BiReset  } from "react-icons/bi";
+
 
 const About = () => {
 
