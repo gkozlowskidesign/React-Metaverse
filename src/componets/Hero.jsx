@@ -58,7 +58,7 @@ const About = () => {
                                     <BiWifi class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black  rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
                                     <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                            <p className="text-md font-medium leading-8 p-4 mx-auto rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting indiviudally 
+                                            <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting indiviudally 
                                             owned Smart-Devices to buildings we can create safer, more sustainable, and secure communities to become Smart-Buildings. 
                                             Through enablment of incentivized verified contributions created by consensus activities you will boost building longevity 
                                             and community value generation.
@@ -72,7 +72,7 @@ const About = () => {
                                         <BiShieldAlt2 class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                        <p className="text-md font-medium leading-8 p-4 mx-auto rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings to 
+                                        <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings to 
                                         both Smart-Building Infrastructure and Infrastructure-Contracts the building owners may create new proofs via governed community 
                                         consensus boosting satisfaction, business relationships and community value allowing of community based Smart-Infrastructure.
                                         </p>      
@@ -88,7 +88,7 @@ const About = () => {
                                     </section>
                                  
                                         <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                        <p className="text-md font-medium leading-8 p-4 mx-auto rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings 
+                                        <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings 
                                         and Smart-Infrastrucutre to Maintenance Contracts via verified contributions using our building centric based dApps. 
                                         External companies can build on current relationships with quality control, optimized routing via custom applications built by our team for specified business.</p>
                                         </section>
@@ -107,7 +107,7 @@ const About = () => {
 
             
             <div className='w-full px-14 h-100 bg-gradient-to-b from-indigo-800 to-black'> 
-            <section className='p-10 w-full container mx-auto flex flex-col justify-center gap-10'>
+            <section className='p-6 w-full container mx-auto flex flex-col justify-center gap-10'>
             <h1 class="px-8 text-4xl font-semibold capitalize text-left text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Social</h1>
                    
                             <div class="bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 border-1 ring-indigo-800 p-5 shadow-lg rounded-2xl flex justify-between items-center">
