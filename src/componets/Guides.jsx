@@ -7,7 +7,7 @@ const About = () => {
 
   return (
     <div>
-            <div name="about" className='w-full h-100 bg-gradient-to-b from-indigo-900 to-indigo-600'>
+            <div name="about" className='w-full h-100 bg-gradient-to-b from-indigo-900 to-black'>
         
                     <div class="w-full h-full  max-w-screen-lg p-6 mx-auto flex flex-col justify-center gap-2 ">
                         <section className='pt-10 py-40 flex items-center h-100 justify-center'>
@@ -30,7 +30,7 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-black'>
+            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-black to-black'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <h1 class="px-8 text-4xl font-semibold capitalize text-right text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Industries</h1>
@@ -74,7 +74,7 @@ const About = () => {
 
 
             
-            <div className='w-full px-14 h-100 bg-gradient-to-b from-black via-indigo-800 to-black'> 
+            <div className='w-full px-14 h-100 bg-gradient-to-b from-black to-indigo-800'> 
             <section className=' w-full container mx-auto flex flex-col justify-center gap-10'>
             <h1 class="px-8 text-4xl font-semibold capitalize text-left text-purple-400 lg:text-5xl"><span className="text-white">MVoT </span>Social</h1>
                    
@@ -149,7 +149,7 @@ const About = () => {
 
 
 
-             <section class="min-h-screen bg-gradient-to-b from-black via-indigo-800 to-white">
+             <section class="min-h-screen bg-gradient-to-b from-indigo-800 to-white">
     <div class="container mx-auto flex min-h-screen flex-col px-6 py-12">
         <div class="flex-1 lg:-mx-6 lg:flex lg:items-center">
         <div class="text-white lg:mx-6 lg:w-1/2">
