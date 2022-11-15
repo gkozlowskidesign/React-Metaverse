@@ -30,15 +30,14 @@ const About = () => {
                     </div>
             </div>
 
-            <section className='mt-2 flex flex-col justify-center gap-2'>
+            <div className='w-full h-100 p-8 pb-4 mx-auto bg-white'>
 
 
 
                 <div class="container mx-auto px-6 py-16 text-center">
                 <h1 class="px-8 text-4xl font-semibold capitalize text-left text-indigo-600 lg:text-5xl"><span className="text-black">MVoT </span>Industrial Software</h1>
 
-                     </div>
-
+                    
                     <div class="mt-10 flex justify-center">
                     <img class="h-96 w-full rounded-xl object-cover lg:w-4/5" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
                     </div>
@@ -47,9 +46,10 @@ const About = () => {
                          <h1 class="text-3xl mt-10 font-bold text-gray-800 dark:text-black lg:text-4xl">Building Your Next Application with our awesome Blockchain IoT Web3 Components</h1>
                                 <button class="mt-6 rounded-lg bg-indigo-600 px-6 py-2.5 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-indigo-300 focus:outline-none lg:mx-0 lg:w-auto">Get in Contact!</button>
                     </div>
-            
+             </div>
+
                 
-            </section>
+            </div>
 
 
             <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-indigo-600 to-indigo-800'>
