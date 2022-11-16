@@ -40,7 +40,7 @@ const Documentation = () => {
                          <h1 className="text-3xl mt-10 p-6 font-bold text-gray-800 dark:text-black lg:text-4xl">Building Your Next Application with Blockchain, IoT, and Web3 Components</h1>
                                 <button className="mt-6 rounded-lg bg-indigo-600 px-6 py-2.5 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-indigo-300 focus:outline-none lg:mx-0 lg:w-auto">Get in Contact!</button>
                     </div>
-<div class="flex flex-wrap">
+
             <iframe className='mb-40' src="https://metaverse-of-things.gitbook.io/introduction/" name="iframe_a" scrolling="no" height="2800rem" width="100%" title="Iframe Example"></iframe>
     </div>
 
