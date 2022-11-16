@@ -16,7 +16,7 @@ const solutions = [
     href: '/foundation', 
     icon: CubeIcon, 
   },
-  { name: 'Explore', 
+  { name: 'Documentation', 
     href: '/documentation', 
     icon: GlobeAltIcon, 
   },
