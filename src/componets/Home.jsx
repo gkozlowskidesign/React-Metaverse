@@ -90,7 +90,7 @@ const About = () => {
                                   <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">BuildingFi</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                        <BiHive class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiHive class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                       
                                     </div>
@@ -98,7 +98,7 @@ const About = () => {
                                     <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">InfraHive</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiShieldAlt2 class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     
                                       
@@ -108,7 +108,7 @@ const About = () => {
                                     <div className='justify-center'>
                                     <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">P2PmFi</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                    <BiReset class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
+                                    <BiReset class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
                                  
                                      
