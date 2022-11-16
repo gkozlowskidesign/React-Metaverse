@@ -76,7 +76,8 @@ const About = () => {
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
                 <img class="https://images.pexels.com/photos/6200343/pexels-photo-6200343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 1"/>
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/450597/pexels-photo-450597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/6200343/pexels-photo-6200343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/439416/pexels-photo-439416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
             </div>
         </div>
 </div>
