@@ -32,7 +32,7 @@ const About = () => {
                         <div class="bg-gray-100 sm:grid grid-cols-5 grid-rows-1 px-4 py-6 min-w-full lg:min-w-screen space-y-6 sm:space-y-0 sm:gap-4">
                             <div class="h-96 col-span-4 bg-gradient-to-tr from-indigo-800 to-indigo-500 rounded-md flex items-center">
                                 <div class="ml-20 w-80">
-                                    <h2 class="text-white text-4xl">MVoT Home</h2>
+                                    <h2 class="text-white text-4xl font-extrabold">MVoT Home</h2>
                                     <p class="text-indigo-100 mt-4 capitalize font-thin tracking-wider leading-7">Detailed Documentation on projects, roadmaps, guides and more.</p>
                                 </div>
                             </div>
@@ -75,9 +75,9 @@ const About = () => {
                 <p>Our team is made up of strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="https://images.pexels.com/photos/6200343/pexels-photo-6200343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 1"/>
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/6200343/pexels-photo-6200343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/439416/pexels-photo-439416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/450597/pexels-photo-450597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
             </div>
         </div>
 </div>
@@ -92,17 +92,17 @@ const About = () => {
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                 
                                   <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">BuildingFi</h2>
+                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">DuraBuild</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                        <BiHive class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                       
                                     </div>
                                    
                                     <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">InfraHive</h2>
-                                        <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
+                                        <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'>
+                                        <BiHive class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     
                                       
@@ -110,7 +110,7 @@ const About = () => {
                                 
                                    
                                     <div className='justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">P2PmFi</h2>
+                                    <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">Service2Fi</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
                                     <BiReset class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
