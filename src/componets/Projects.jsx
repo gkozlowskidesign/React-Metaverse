@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/metaverseofthings_logo.png';
+import Logo from '../assets/metaverseofthings_logo.png';
 
 
 
@@ -93,7 +93,7 @@ export default function Example() {
                                 </div>
                             </div>
                         </section>
-
+                    </div>
 
 
 
@@ -114,9 +114,10 @@ export default function Example() {
               <p className="mt-1 text-sm font-medium text-white">{product.education}</p>
             </a>
           ))}
-        </div>
+              </div>
       </div>
     </div>
+</div>
   )
 }
 
