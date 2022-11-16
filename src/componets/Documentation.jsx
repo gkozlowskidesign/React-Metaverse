@@ -28,7 +28,7 @@ const Documentation = () => {
                         <div class="bg-gray-100 sm:grid grid-cols-5 grid-rows-1 px-4 py-6 min-w-full lg:min-w-screen space-y-6 sm:space-y-0 sm:gap-4">
                             <div class="h-96 col-span-4 bg-gradient-to-tr from-indigo-800 to-indigo-500 rounded-md flex items-center">
                                 <div class="ml-20 w-80">
-                                    <h2 class="text-white text-4xl">MVoT Home</h2>
+                                    <h2 class="text-white text-4xl">MVoT Documentation</h2>
                                     <p class="text-indigo-100 mt-4 capitalize font-thin tracking-wider leading-7">Detailed Documentation on projects, roadmaps, guides and more.</p>
                                 </div>
                             </div>
