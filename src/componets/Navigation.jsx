@@ -4,7 +4,7 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, CubeIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, CubeIcon, AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
@@ -16,13 +16,17 @@ const solutions = [
     href: '/getstarted', 
     icon: CubeIcon, 
   },
+   { name: 'Web3 Learning', 
+    href: '/learning', 
+    icon: AcademicCapIcon, 
+  },
   { name: 'Foundation', 
     href: '/foundation', 
-    icon: CubeIcon, 
+    icon: GlobeAltIcon, 
   },
   { name: 'Documentation', 
     href: '/documentation', 
-    icon: GlobeAltIcon, 
+    icon: FolderIcon, 
   },
 ]
 
