@@ -85,44 +85,65 @@ const About = () => {
 
 
               <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-900'>
-                        <section className='mt-2 flex flex-col justify-center gap-2'>
-
-                            <div class="container mx-auto mb-20">
-                                <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
-                                  <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">DuraBuild</h2>
-                                        <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
-                                        </section>
-                                      
-                                    </div>
-                                   
-                                    <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">InfraHive</h2>
-                                        <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'>
-                                        <BiHive class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
-                                        </section>
-                                    
-                                      
-                                    </div>
-                                
-                                   
-                                    <div className='justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">Service2Fi</h2>
-                                    <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                    <BiReset class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
-                                    </section>
-                                 
-                                     
-                                    </div>
-
-                            
-
-
-
-                                </div>
-                            </div>
-                        </section>
+                           <div class="w-full md:w-6/12 px-4">
+      <div class="flex flex-wrap">
+        <div class="w-full md:w-6/12 px-4">
+          <div class="relative flex flex-col mt-4">
+            <div class="px-4 py-5 flex-auto">
+              <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
+              <BiHive class="w-8 h-8" alt="MTOT" />  
+              </div>
+              <h6 class="text-xl mb-1 font-semibold">BuildingFi</h6>
+              <p class="mb-4 text-blueGray-500">
+                Notus JS comes with a huge number of Fully Coded CSS
+                components.
+              </p>
+            </div>
+          </div>
+          <div class="relative flex flex-col min-w-0">
+            <div class="px-4 py-5 flex-auto">
+            <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
+              <BiShieldAlt2 class="w-8 h-8" alt="MTOT" />              
+              </div>
+              <h6 class="text-xl mb-1 font-semibold">
+                InfraHive
+              </h6>
+              <p class="mb-4 text-blueGray-500">
+                We also feature many dynamic components for React, NextJS,
+                Vue and Angular.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="w-full md:w-6/12 px-4">
+          <div class="relative flex flex-col min-w-0 mt-4">
+            <div class="px-4 py-5 flex-auto">
+            <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
+              <BiReset class="w-8 h-8" alt="MTOT" />  
+              </div>
+              <h6 class="text-xl mb-1 font-semibold">P2PmFi</h6>
+              <p class="mb-4 text-blueGray-500">
+                This extension also comes with 3 sample pages. They are
+                fully coded so you can start working instantly.
+              </p>
+            </div>
+          </div>
+          <div class="relative flex flex-col min-w-0">
+            <div class="px-4 py-5 flex-auto">
+            <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
+              <BiBrain class="w-8 h-8" alt="MTOT" />  
+              </div>
+              <h6 class="text-xl mb-1 font-semibold">Learn</h6>
+              <p class="mb-4 text-blueGray-500">
+                Built by developers for developers. You will love how easy
+                is to to work with Notus JS.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
             
             </div>
 
