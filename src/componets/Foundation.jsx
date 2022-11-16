@@ -7,7 +7,27 @@ const About = () => {
   return (
     <div>
                     
-                    
+                    <div name="about" className='w-full h-100 bg-gradient-to-b from-indigo-900 to-indigo-600'>
+        
+                    <div class="w-full h-full  max-w-screen-lg p-6 mx-auto flex flex-col justify-center gap-2 ">
+                        <section className='pt-10 py-40 flex items-center h-100 justify-center'>
+                            <div className="mx-auto max-w-[27.5rem]">
+                                <div className="text-center">
+                                    <div className="pt-2  flex items-center justify-center ">
+                                        <img className="h-30" src={Logo} alt="MVoT"/> 
+                                    </div>     
+                                    <p className="mb-2 text-lg font-medium leading-8 text-white">MVoT Systems</p>
+                                    <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
+                                    <span className='text-purple-400'>of Things</span></h1>
+                                    <p className="mb-2 text-lg font-medium leading-8 text-white">Get Started</p>      
+                                </div>
+                            </div>
+                        </section>
+
+    
+                     
+                    </div>
+            </div>
                     <section>
                         <div class="bg-gray-100 sm:grid grid-cols-5 grid-rows-1 px-4 py-6 min-w-full lg:min-w-screen space-y-6 sm:space-y-0 sm:gap-4">
                             <div class="h-96 col-span-4 bg-gradient-to-tr from-indigo-800 to-indigo-500 rounded-md flex items-center">
@@ -53,7 +73,7 @@ const About = () => {
 
             <div
                 class="p-10 flex flex-col items-center text-center group md:lg:xl:border-r md:lg:xl:border-b hover:bg-slate-50 cursor-pointer">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-red-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
                         <path stroke-linecap="round" stroke-linejoin="round"
@@ -66,7 +86,7 @@ const About = () => {
 
             <div
                 class="p-10 flex flex-col items-center text-center group md:lg:xl:border-r md:lg:xl:border-b hover:bg-slate-50 cursor-pointer">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-orange-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
                         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -80,7 +100,7 @@ const About = () => {
             </div>
 
             <div class="p-10 flex flex-col items-center text-center group   md:lg:xl:border-b hover:bg-slate-50 cursor-pointer">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-yellow-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
                         <path stroke-linecap="round" stroke-linejoin="round"
@@ -93,7 +113,7 @@ const About = () => {
 
 
             <div class="p-10 flex flex-col items-center text-center group   md:lg:xl:border-r hover:bg-slate-50 cursor-pointer">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-lime-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -103,7 +123,7 @@ const About = () => {
             </div>
 
             <div class="p-10 flex flex-col items-center text-center group    md:lg:xl:border-r hover:bg-slate-50 cursor-pointer">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-teal-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
                         <path stroke-linecap="round" stroke-linejoin="round"
