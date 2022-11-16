@@ -79,51 +79,36 @@ const About = () => {
             </div>
 
 
-            <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-800'>
+              <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-800'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                 
                                   <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-black">Smart Buildings</h2>
-                                        <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
-                                        <BiHive class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
+                                        <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">BuildingFi</h2>
+                                        <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
+                                        <BiHive class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
-                                        <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                        <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting indiviudally 
-                                        owned Smart-Devices to buildings we can create safer, more sustainable, and secure communities to become Smart-Buildings. 
-                                        Through enablment of incentivized verified contributions created by consensus activities you will boost building longevity 
-                                         and community value generation.
-                                            </p>      
-                                        </section>
+                                      
                                     </div>
                                    
                                     <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-black">Smart Infrastructure</h2>
-                                        <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
+                                        <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">InfraHive</h2>
+                                        <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'> 
+                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     
-                                        <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                        <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings to 
-                                        both Smart-Building Infrastructure and Infrastructure-Contracts the building owners may create new proofs via governed community 
-                                        consensus boosting satisfaction, business relationships and community value allowing of community based Smart-Infrastructure.
-                                        </p>      
-                                        </section>
+                                      
                                     </div>
                                 
                                    
                                     <div className='justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-2xl font-semibold capitalize text-black">Smart Maintenance</h2>
-                                    <section className='h-48 w-4/5 mx-auto  rounded-lg  ring-1 ring-black'> 
-                                    <BiReset class="p-6 h-full w-full  text-white bg-gradient-to-b from-indigo-600 to-black   rounded-lg  object-cover"  alt="MTOT" />
+                                    <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">P2PmFi</h2>
+                                    <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
+                                    <BiReset class="p-6 h-full w-full text-indigo-500 rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
                                  
-                                        <section className='mt-4 h-3/6 w-4/5 mx-auto'>
-                                        <p className="text-md font-medium leading-8 p-4 mx-auto hidden md:block rounded-lg bg-gradient-to-b from-indigo-600 to-indigo-800 ring-1 ring-black text-white shadow-2xl">Connecting Smart-Buildings 
-                                        and Smart-Infrastrucutre to Maintenance Contracts via verified contributions using our building centric based dApps. 
-                                        External companies can build on current relationships with quality control, optimized routing via custom applications built by our team for specified business.</p>
-                                        </section>
+                                     
                                     </div>
 
                             
