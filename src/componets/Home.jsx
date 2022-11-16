@@ -84,8 +84,7 @@ const About = () => {
          
 
 
-              <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-900'>
-                           <div class="w-full md:w-6/12 px-4">
+ <div class="w-full md:w-6/12 px-4">
       <div class="flex flex-wrap">
         <div class="w-full md:w-6/12 px-4">
           <div class="relative flex flex-col mt-4">
@@ -144,15 +143,13 @@ const About = () => {
       </div>
     </div>
   </div>
-            
-            </div>
+</div>
+
+</div>
 
 
-
-
-
-            
-                      <div className='w-full px-10 h-100 bg-gradient-to-b from-indigo-900 to-black'> 
+    
+<div className='w-full px-10 h-100 bg-gradient-to-b from-indigo-800 to-black'> 
                             <section className='p-10 w-full container mx-auto flex flex-col justify-center gap-10'>
 
                             <footer class="relative py-20 flex flex-col items-center overflow-hidden md:py-40">
@@ -237,6 +234,7 @@ const About = () => {
 
 
 export default About
+            
             
             
    
