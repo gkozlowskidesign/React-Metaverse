@@ -67,10 +67,10 @@ const About = () => {
 <div class="bg-white">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-black">Future Infrastructure and Applications</h2>
+                <h2 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">Future Infrastructure and Applications</h2>
                 <p class="mb-4">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
-                We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society. 
-                Machines will not replace employees but they will make these essential functions easier through automation, safety, security and connectivity allowing for more consistant optimziations that align with what the business and societal needs. 
+                We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
+                <p>Machines will not replace employees but they will make these essential functions easier through automation, safety, security and connectivity allowing for more consistant optimziations that align with what the business and societal needs. 
                 Development of our base-level IoT software has already begun and we will deliver value for everyone before moving to more centrialized projects.</p>
                 <p>Our team is made up of strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
@@ -89,7 +89,7 @@ const About = () => {
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
-                                
+                                <h2 class="mb-4 text-left text-3xl font-extrabold text-gray-900 dark:text-black">Technologies</h2>
                                   <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">DuraBuild</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
