@@ -82,7 +82,7 @@ const About = () => {
          
 
 
-              <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-800'>
+              <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-900'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
                             <div class="container mx-auto mb-20">
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
@@ -129,7 +129,7 @@ const About = () => {
 
 
             
-                      <div className='w-full px-10 h-100 bg-gradient-to-b from-indigo-800 to-black'> 
+                      <div className='w-full px-10 h-100 bg-gradient-to-b from-indigo-900 to-black'> 
                             <section className='p-10 w-full container mx-auto flex flex-col justify-center gap-10'>
 
                             <footer class="relative py-20 flex flex-col items-center overflow-hidden md:py-40">
