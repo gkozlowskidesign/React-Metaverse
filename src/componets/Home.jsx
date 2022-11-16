@@ -63,7 +63,7 @@ const About = () => {
                     </section>
 
 
-<div class="bg-white">
+<section class="bg-white">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">Future Infrastructure and Applications</h2>
@@ -78,10 +78,31 @@ const About = () => {
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/450597/pexels-photo-450597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
             </div>
         </div>
-</div>
+<section>
             
-                
-         
+ <div class="relative pt-16 bg-white">
+<div class="container mx-auto">
+  <div class="flex flex-wrap items-center">
+    <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
+      <div class="relative flex flex-col min-w-0 break-words bg-black w-full mb-6 shadow-lg rounded-l">
+        <img alt="img" src="https://images.pexels.com/photos/6325001/pexels-photo-6325001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+        <blockquote class="relative p-8 mb-4">
+          <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95" class="absolute left-0 w-full block h-95-px -top-94-px">
+            <polygon points="-30,95 583,95 583,65" class="text-indigo-500 fill-current"></polygon>
+          </svg>
+          <h4 class="text-xl font-bold text-white">
+            Great for your awesome project
+          </h4>
+          <p class="text-md font-light mt-2 text-white">
+            Putting together a page has never been easier than matching
+            together pre-made components. From landing pages presentation
+            to login areas, you can easily customise and built your pages.
+          </p>
+        </blockquote>
+      </div>
+    </div>
+               
+        
 
 
  <div class="w-full md:w-6/12 px-4">
@@ -231,6 +252,7 @@ const About = () => {
       
   )
 }
+
 
 
 export default About
