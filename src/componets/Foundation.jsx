@@ -15,7 +15,7 @@ const About = () => {
                                     <h2 class="text-white text-4xl">MVoT Foundation</h2>
                                     <p class="text-indigo-100 mt-4 capitalize font-thin tracking-wider leading-7">Detailed Documentation on projects, roadmaps, guides and more.</p>
 
-                                    <a href="#" class="uppercase inline-block mt-8 text-sm bg-white py-2 px-4 rounded font-semibold hover:bg-indigo-100">get start</a>
+                                    <a href="https://www.metaverseot.xyz/" class="uppercase inline-block mt-8 text-sm bg-white py-2 px-4 rounded font-semibold hover:bg-indigo-100">get start</a>
                                 </div>
                             </div>
 
