@@ -47,11 +47,11 @@ const About = () => {
 
                                 <div class="bg-white  rounded-md">
                                     <div class="bg-white rounded-md list-none  text-center mt-8">
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Home</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/getstarted" class="list-none  hover:text-indigo-600">Get Started</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/learning" class="list-none  hover:text-indigo-600">Web3 Learning</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Foundation</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/documentation" class="list-none  hover:text-indigo-600">Documentation</a></li>                                
+                                        <li class="py-3 rounded-md border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Home</a></li>
+                                        <li class="py-3 rounded-md border-b-2"><a href="https://www.metaverseot.xyz/getstarted" class="list-none  hover:text-indigo-600">Get Started</a></li>
+                                        <li class="py-3 rounded-md border-b-2"><a href="https://www.metaverseot.xyz/learning" class="list-none  hover:text-indigo-600">Web3 Learning</a></li>
+                                        <li class="py-3 rounded-md border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Foundation</a></li>
+                                        <li class="py-3 rounded-md border-b-2"><a href="https://www.metaverseot.xyz/documentation" class="list-none  hover:text-indigo-600">Documentation</a></li>                                
                                         
                                     </div>
                                 </div>                        
@@ -70,7 +70,7 @@ const About = () => {
                 <p class="mb-4">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
                 We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
                 <p>Machines will not replace employees but they will make these essential functions easier through automation, safety, security and connectivity allowing for more consistant optimziations that align with what the business and societal needs. 
-                Development of our base-level IoT software has already begun and we will deliver value for everyone before moving to more centrialized projects.</p>
+                Development of our base-level IoT software has already begun and we will deliver value for everyone before moving to more centrialized projects.</p><br></br>
                 <p>Our team is made up of strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
@@ -86,7 +86,6 @@ const About = () => {
 
               <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-900'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
-                      <h2 class="mb-4 text-left text-3xl font-extrabold text-gray-900 dark:text-black">Technologies</h2>
 
                             <div class="container mx-auto mb-20">
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
