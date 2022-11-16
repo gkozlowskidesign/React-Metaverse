@@ -28,7 +28,7 @@ const Documentation = () => {
 
      <div className='w-full h-100 p-2 pb-10 mx-auto bg-white'>
             <section className='mt-2 flex flex-col justify-center gap-2'>
-                  <div className="mx-auto max-w-lg text-center">
+                  <div className="flex flex-wrap">
                     <iframe className='mb-40' src="https://metaverse-of-things.gitbook.io/introduction/" name="iframe_a" scrolling="no" height="2800rem" width="100%" title="Iframe Example"></iframe>
                     </div>
             </section>
