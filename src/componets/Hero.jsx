@@ -158,8 +158,8 @@ const About = () => {
                     <span class="block text-gray-300">MVoT Systems &copy; 2022</span>
 
                     <span class="flex justify-between text-white"> 
-                        <a href="#" class="font-semibold">Terms of Use </a>
-                        <a href="#" class="font-semibold"> Privacy Policy</a> 
+                        <a href="https://metaverse-of-things.gitbook.io/docs/" class="font-semibold">Terms of Use </a>
+                        <a href="https://metaverse-of-things.gitbook.io/docs/" class="font-semibold"> Privacy Policy</a> 
                     </span>
 
                     <span class="block text-gray-300">Need help? <a href="#" class="font-semibold text-white"> Contact Us</a></span>
