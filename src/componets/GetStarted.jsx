@@ -79,11 +79,11 @@ const Documentation = () => {
             <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-1 lg:grid-cols-2 dark:text-gray-400">
                
                 <a href="https://reactnative.dev/" class="flex justify-center items-center">
-                <img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" class="h-12 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                         
+                <img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" alt="React" class="h-12 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                         
                 </a>
 
                 <a href="https://aws.amazon.com/free/iot/?trk=67a980b6-50f8-4a8c-b4cf-69542aae8687&sc_channel=ps&s_kwcid=AL!4422!3!550177528235!e!!g!!aws%20iot&ef_id=EAIaIQobChMIjPu5hr6z-wIVCrLICh2CqA46EAAYASAAEgI1gvD_BwE:G:s&s_kwcid=AL!4422!3!550177528235!e!!g!!aws%20iot" class="flex justify-center items-center">
-                <img src="https://docs.loriot.io/download/attachments/14877852/image2019-8-27_16-51-53.png?version=1&modificationDate=1620987484236&api=v2" class="h-12 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                   
+                <img src="https://docs.loriot.io/download/attachments/14877852/image2019-8-27_16-51-53.png?version=1&modificationDate=1620987484236&api=v2" alt="AWS" class="h-12 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                   
                 </a>
                
             
