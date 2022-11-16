@@ -161,8 +161,6 @@ const About = () => {
                         <a href="https://metaverse-of-things.gitbook.io/docs/" class="font-semibold">Terms of Use </a>
                         <a href="https://metaverse-of-things.gitbook.io/docs/" class="font-semibold"> Privacy Policy</a> 
                     </span>
-
-                    <span class="block text-gray-300">Need help? <a href="#" class="font-semibold text-white"> Contact Us</a></span>
                 </div>
             </div>
         </div>
