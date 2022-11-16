@@ -176,11 +176,11 @@ const products = [
 
                                 <div class="bg-white  rounded-md">
                                     <div class="bg-white rounded-md list-none  text-center mt-8">
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Home</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Get Started</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Web3 Education</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">MVoT Foundation</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Get Connected</a></li>                                
+                                         <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Home</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/getstarted" class="list-none  hover:text-indigo-600">Get Started</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/learning" class="list-none  hover:text-indigo-600">Web3 Learning</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Foundation</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/documentation" class="list-none  hover:text-indigo-600">Documentation</a></li>                                
                                         
                                     </div>
                                 </div>                        
