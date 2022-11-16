@@ -86,9 +86,10 @@ const About = () => {
 
               <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-900'>
                         <section className='mt-2 flex flex-col justify-center gap-2'>
+                      <h2 class="mb-4 text-left text-3xl font-extrabold text-gray-900 dark:text-black">Technologies</h2>
+
                             <div class="container mx-auto mb-20">
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
-                                <h2 class="mb-4 text-left text-3xl font-extrabold text-gray-900 dark:text-black">Technologies</h2>
                                   <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">DuraBuild</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
