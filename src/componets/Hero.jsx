@@ -114,7 +114,7 @@ const About = () => {
                 <div class="w-full space-x-12 flex justify-center text-gray-300 sm:w-7/12 md:justify-start">
                    
 
-                    <ul role="list" class="space-y-8">
+                    <ul class="space-y-8">
                         <li>
                             <a href="https://github.com/Metaverse-Of-Things" class="flex items-center space-x-3 hover:text-indigo-400 transition">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-7" viewBox="0 0 16 16">
