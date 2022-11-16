@@ -63,17 +63,23 @@ const About = () => {
             
                     </section>
 
-            <div className='w-full h-100 p-8 pb-10 mx-auto bg-white'>
-            <section className='mt-2 flex flex-col justify-center gap-2'>
 
-             
-                    <div className="mx-auto max-w-lg text-center">
-                         <h1 className="text-3xl mt-10 p-6 font-bold text-gray-800 dark:text-black lg:text-4xl">Building Your Next Application with Blockchain, IoT, and Web3 Components</h1>
-                    </div>
+<div class="bg-white">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-black">Future Infrastructure and Applications</h2>
+                <p class="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                <p>We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick.</p>
+            </div>
+            <div class="grid grid-cols-2 gap-4 mt-8">
+                <img class="w-full rounded-lg" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="office content 1"/>
+                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="office content 2"/>
+            </div>
+        </div>
+</div>
             
                 
-            </section>
-            </div>
+         
 
 
               <div className='w-full h-100 p-8 pb-4 mx-auto bg-gradient-to-b from-white to-indigo-800'>
@@ -119,19 +125,7 @@ const About = () => {
             </div>
 
 
-<div class="bg-white">
-        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-            <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">We didn't reinvent the wheel</h2>
-                <p class="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
-                <p>We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick.</p>
-            </div>
-            <div class="grid grid-cols-2 gap-4 mt-8">
-                <img class="w-full rounded-lg" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="office content 1"/>
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="office content 2"/>
-            </div>
-        </div>
-</div>
+
 
 
             
