@@ -88,17 +88,17 @@ const About = () => {
                                 <div class="mt-4 grid grid-cols-1 gap-10 md:grid-cols-2 xl:mt-4 xl:grid-cols-3 xl:gap-10">
                                 
                                   <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">BuildingFi</h2>
+                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">BuildingFi</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                        <BiHive class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiHive class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                       
                                     </div>
                                    
                                     <div className='justify-center'>
-                                        <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">InfraHive</h2>
+                                        <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">InfraHive</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     
                                       
@@ -106,9 +106,9 @@ const About = () => {
                                 
                                    
                                     <div className='justify-center'>
-                                    <h2 class="mt-4 mb-4  text-center text-4xl font-semibold capitalize text-indigo-800">P2PmFi</h2>
+                                    <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">P2PmFi</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                    <BiReset class="p-6 h-full w-full text-black rounded-lg  object-cover"  alt="MTOT" />
+                                    <BiReset class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
                                  
                                      
