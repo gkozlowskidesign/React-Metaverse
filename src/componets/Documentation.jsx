@@ -26,14 +26,9 @@ const Documentation = () => {
         </div>
 
 
-     <div className='w-full h-100 p-8 pb-10 mx-auto bg-white'>
+     <div className='w-full h-100 p-2 pb-10 mx-auto bg-white'>
             <section className='mt-2 flex flex-col justify-center gap-2'>
-
-                    <div className="mt-10 flex justify-center">
-                    <img className="h-96 w-4/5 rounded-xl object-cover lg:w-3/5" alt="smart-city" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
-                    </div>
-
-                    <div className="mx-auto max-w-lg text-center">
+                  <div className="mx-auto max-w-lg text-center">
                     <iframe className='mb-40' src="https://metaverse-of-things.gitbook.io/introduction/" name="iframe_a" scrolling="no" height="2800rem" width="100%" title="Iframe Example"></iframe>
                     </div>
             </section>
