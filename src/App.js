@@ -2,10 +2,8 @@ import NavBar from "./componets/Navigation";
 import Home from "./componets/Home";
 import GetStarted from "./componets/GetStarted";
 import Foundation from "./componets/Foundation";
-import Projects from "./componets/Projects";
-import Concepts from "./componets/Concepts";
+import Learning from "./componets/Learning";
 import Documentation from "./componets/Documentation";
-
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -24,11 +22,8 @@ function App() {
           <Route  path="/foundation">
           <Foundation />
           </Route>
-          <Route  path="/projects">
-          <Projects/> 
-          </Route>
-          <Route  path="/concepts">
-          <Concepts/> 
+          <Route  path="/learning">
+          <Learning/> 
           </Route>
           <Route  path="/documentation">
           <Documentation/>
