@@ -1,5 +1,5 @@
 import NavBar from "./componets/Navigation";
-import Hero from "./componets/Hero";
+import Home from "./componets/Home";
 import Guides from "./componets/Guides";
 import Foundation from "./componets/Foundation";
 import Projects from "./componets/Projects";
@@ -16,7 +16,7 @@ function App() {
       <div className="content">
         <Switch>
           <Route exact path="/">
-          <Hero/>
+          <Home/>
           </Route>
           <Route  path="/guide">
           <Guides />
