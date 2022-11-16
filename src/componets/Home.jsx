@@ -71,7 +71,6 @@ const About = () => {
                     </div>
                     <div className="mx-auto max-w-lg text-center">
                          <h1 className="text-3xl mt-10 p-6 font-bold text-gray-800 dark:text-black lg:text-4xl">Building Your Next Application with Blockchain, IoT, and Web3 Components</h1>
-                                <button className="mt-6 rounded-lg bg-indigo-600 px-6 py-2.5 text-center text-sm font-medium capitalize leading-5 text-white hover:bg-indigo-300 focus:outline-none lg:mx-0 lg:w-auto">Get in Contact!</button>
                     </div>
             
                 
