@@ -33,7 +33,6 @@ const About = () => {
                             <div class="h-96 col-span-4 bg-gradient-to-tr from-indigo-800 to-indigo-500 rounded-md flex items-center">
                                 <div class="ml-20 w-80">
                                     <h2 class="text-white text-4xl font-extrabold">MVoT Home</h2>
-                                    <p class="text-indigo-100 mt-4 capitalize font-thin tracking-wider leading-7">Detailed Documentation on projects, roadmaps, guides and more.</p>
                                 </div>
                             </div>
 
@@ -93,7 +92,7 @@ const About = () => {
                                   <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">DuraBuild</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiShieldAlt2 class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                       
                                     </div>
@@ -101,7 +100,7 @@ const About = () => {
                                     <div className='justify-center'>
                                         <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">InfraHive</h2>
                                         <section className='h-48 w-4/5 mx-auto  rounded-lg   ring-black'>
-                                        <BiHive class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
+                                        <BiHive class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
                                         </section>
                                     
                                       
@@ -111,7 +110,7 @@ const About = () => {
                                     <div className='justify-center'>
                                     <h2 class="mt-4 mb-4  text-center text-4xl font-extrabold capitalize text-black">Service2Fi</h2>
                                     <section className='h-48 w-4/5 mx-auto  rounded-lg'> 
-                                    <BiReset class="p-6 h-full w-full text-indigo-400 rounded-lg  object-cover"  alt="MTOT" />
+                                    <BiReset class="p-6 h-full w-full text-indigo-900 rounded-lg  object-cover"  alt="MTOT" />
                                     </section>
                                  
                                      
