@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/metaverseofthings_logo.png';
+import Logo from '../assets/metaverseofthings_logo.png';
 
 
 const Documentation = () => {
