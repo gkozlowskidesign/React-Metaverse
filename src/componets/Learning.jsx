@@ -192,8 +192,8 @@ const products = [
         <div class="py-8 lg:py-16 mx-auto max-w-screen-xl px-4">
             <div class="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-1 lg:grid-cols-1 dark:text-gray-400">
                
-                <a href="#" class="flex justify-center items-center">
-                <img src="https://miro.medium.com/max/1400/1*Q7_EptEKq13NXJlAtG-wGw.png" class="h-28 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                         
+                <a href="https://www.metaverseot.xyz/getstarted" class="flex justify-center items-center">
+                <img src="https://miro.medium.com/max/1400/1*Q7_EptEKq13NXJlAtG-wGw.png" alt="react" class="h-28 hover:text-gray-900 dark:hover:text-white" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"/>                         
                 </a>
 
               
