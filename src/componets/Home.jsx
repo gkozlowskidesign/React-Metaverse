@@ -68,8 +68,11 @@ const About = () => {
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl font-extrabold text-gray-900 dark:text-black">Future Infrastructure and Applications</h2>
-                <p class="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
-                <p>We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick.</p>
+                <p class="mb-4">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
+                We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society. 
+                Machines will not replace employees but they will make these essential functions easier through automation, safety, security and connectivity allowing for more consistant optimziations that align with what the business and societal needs. 
+                Development of our base-level IoT software has already begun and we will deliver value for everyone before moving to more centrialized projects. 
+                <p>Our team is made up of strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
                 <img class="w-full rounded-lg" src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="office content 1"/>
