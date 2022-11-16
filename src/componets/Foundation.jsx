@@ -107,7 +107,7 @@ const About = () => {
                         <path stroke-linecap="round" stroke-linejoin="round"
                             d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
                     </svg></span>
-                <p class="text-xl font-medium text-slate-700 mt-3">Custom</p>
+                <p class="text-xl font-medium text-slate-700 mt-3">Learning</p>
                 <p class="mt-2 text-sm text-slate-500">Professional Advice for higher education abroad and select the
                     top institutions worldwide.</p>
             </div>
