@@ -49,16 +49,16 @@ const About = () => {
                                     </span>
                                 </div>
 
-                                <div class="bg-white  rounded-md">
+                               <div class="bg-white  rounded-md">
                                     <div class="bg-white rounded-md list-none  text-center mt-8">
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none  hover:text-indigo-600">Systems</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none  hover:text-indigo-600">Foundation</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none  hover:text-indigo-600">Centralized</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none  hover:text-indigo-600">Decentralized</a></li>
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none  hover:text-indigo-600">Product Related</a></li>                                
-                                        <li class="py-3 border-b-2"><a href="https://metaverse-of-things.gitbook.io/docs/" class="list-none border-b-2 hover:text-indigo-600">Guides</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Home</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Get Started</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Solutions</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Foundation</a></li>
+                                        <li class="py-3 border-b-2"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Connect</a></li>                                
+                                        
                                     </div>
-                                </div>                        
+                                </div>                            
                             </div>
                         </div>
 
