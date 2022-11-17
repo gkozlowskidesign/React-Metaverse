@@ -4,11 +4,11 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, CubeIcon, AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
-    name: 'Home',
+    name: 'Get Started',
     href: '/',
     icon: HomeModernIcon,
   },
