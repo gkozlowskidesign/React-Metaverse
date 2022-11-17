@@ -1,6 +1,5 @@
 import NavBar from "./componets/Navigation";
 import Home from "./componets/Home";
-import GetStarted from "./componets/GetStarted";
 import Foundation from "./componets/Foundation";
 import Learning from "./componets/Learning";
 import Documentation from "./componets/Documentation";
@@ -15,9 +14,6 @@ function App() {
         <Switch>
           <Route exact path="/">
           <Home/>
-          </Route>
-          <Route  path="/getstarted">
-          <GetStarted />
           </Route>
           <Route  path="/foundation">
           <Foundation />
