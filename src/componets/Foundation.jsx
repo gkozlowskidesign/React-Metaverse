@@ -34,7 +34,6 @@ const About = () => {
                             <div class="h-96 col-span-4 bg-gradient-to-tr from-indigo-800 to-indigo-500 rounded-md flex items-center">
                                 <div class="ml-20 w-80">
                                     <h2 class="text-white text-4xl font-extrabold">MVoT Foundation</h2>
-                                    <p class="text-indigo-100 mt-4 capitalize font-thin tracking-wider leading-7">Detailed Documentation on projects, roadmaps, guides and more.</p>
 
                                     <a href="https://www.metaverseot.xyz/" class="uppercase inline-block mt-8 text-sm bg-white py-2 px-4 rounded font-semibold hover:bg-indigo-100">get start</a>
                                 </div>
