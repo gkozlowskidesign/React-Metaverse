@@ -12,7 +12,7 @@ const solutions = [
     href: '/',
     icon: HomeModernIcon,
   },
-   { name: 'Web3 Learning', 
+   { name: 'Education', 
     href: '/learning', 
     icon: AcademicCapIcon, 
   },
