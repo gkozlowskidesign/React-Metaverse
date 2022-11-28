@@ -1,28 +1,22 @@
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import {
+  BookmarkIcon,
+  CubeTransparentIcon,
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon} from '@heroicons/react/20/solid'
 
 const solutions = [
   {
-    name: 'Get Started',
-    href: '/',
-    icon: HomeModernIcon,
+    name: 'Dashboard',
+    href: '/overview',
+    icon: CubeTransparentIcon,
   },
-   { name: 'Education', 
-    href: '/learning', 
-    icon: AcademicCapIcon, 
-  },
-  { name: 'Foundation', 
-    href: '/foundation', 
-    icon: GlobeAltIcon, 
-  },
-  { name: 'Documentation', 
-    href: '/documentation', 
-    icon: FolderIcon, 
+  { name: 'Publications', 
+  href: '/publications', 
+  icon: BookmarkIcon, 
   },
 ]
 
@@ -34,9 +28,12 @@ function classNames(...classes) {
 
 export default function Example() {
   return (
-   <Popover className="relative bg-indigo-900">
+   <Popover className="relative bg-gradient-to-r from-gray-900  to-indigo-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
+        <img src="https://github.com/gkozlowskidesign/React-Portfolio/blob/main/src/assets/gk-1.png?raw=true" alt="My Profile"
+            className="rounded-3xl ml-4 mt-2 mx-auto w-2/12" 
+            />
           <div className="flex justify-start lg:w-0 lg:flex-1">
          
              
@@ -90,11 +87,13 @@ export default function Example() {
                               <div className="ml-4">
                                 <p className="text-base font-medium text-white">{item.name}</p>
                               </div>
+                              
                             </a>
                           ))}
                         </div>
                     
                       </div>
+                      
                     </Popover.Panel>
                   </Transition>
                 </>
