@@ -4,7 +4,7 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  GlobeAltIcon, AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon,  AcademicCapIcon, FolderIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
@@ -15,10 +15,6 @@ const solutions = [
    { name: 'Education', 
     href: '/learning', 
     icon: AcademicCapIcon, 
-  },
-  { name: 'Foundation', 
-    href: '/foundation', 
-    icon: GlobeAltIcon, 
   },
   { name: 'Documentation', 
     href: '/documentation', 
