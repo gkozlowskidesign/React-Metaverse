@@ -46,7 +46,6 @@ const About = () => {
                                     <div class="bg-white rounded-md list-none  text-center mt-8">
                                         <li class="py-3 rounded-md border-b-2 hover:bg-slate-50 cursor-pointer"><a href="https://www.metaverseot.xyz/" class="list-none  hover:text-indigo-600">Get Started</a></li>
                                         <li class="py-3 rounded-md border-b-2 hover:bg-slate-50 cursor-pointer"><a href="https://www.metaverseot.xyz/learning" class="list-none  hover:text-indigo-600">Education</a></li>
-                                        <li class="py-3 rounded-md border-b-2 hover:bg-slate-50 cursor-pointer"><a href="https://www.metaverseot.xyz/foundation" class="list-none  hover:text-indigo-600">Foundation</a></li>
                                         <li class="py-3 rounded-md border-b-2 hover:bg-slate-50 cursor-pointer"><a href="https://www.metaverseot.xyz/documentation" class="list-none  hover:text-indigo-600">Documentation</a></li>                                
                                         
                                     </div>
