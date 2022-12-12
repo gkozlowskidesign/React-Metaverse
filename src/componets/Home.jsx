@@ -85,8 +85,6 @@ const About = () => {
                                         <BiHive class="w-8 h-8" alt="MTOT" />  
                                         </div>
                                         <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">BuildingFi</h6>
-                                        <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
-                                    We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
                                     </div>
                                 </div>
                                 <div class="relative flex flex-col min-w-0 mt-4 mb-5">
@@ -95,8 +93,6 @@ const About = () => {
                                         <BiShieldAlt2 class="w-8 h-8" alt="MTOT" />              
                                         </div>
                                             <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">InfraHive</h6>
-                                            <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
-                                    We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
                                     </div>
                                 </div>
                              </div>
@@ -107,8 +103,6 @@ const About = () => {
                                     <BiReset class="w-8 h-8" alt="MTOT" />  
                                     </div>
                                     <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">P2PmFi</h6>
-                                    <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
-                                    We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
 
                                     </div>
                                 </div>
@@ -119,8 +113,6 @@ const About = () => {
                                     <BiBrain class="w-8 h-8" alt="MTOT" />  
                                     </div>
                                     <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">Learn</h6>
-                                    <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">We are at a pivtol moment in history where IoT is actually making a difference in both business and personal life operations.
-                                    We believe the industrial industries which support essential function within our cities is the most forefront for how IoT will play a role in Society.</p>
 
                                     </div>
                                 </div>
