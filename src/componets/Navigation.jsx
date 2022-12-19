@@ -8,7 +8,7 @@ import { Squares2X2Icon,  HomeModernIcon,  AcademicCapIcon, FolderIcon } from '@
 
 const solutions = [
   {
-    name: 'Get Started',
+    name: 'Home',
     href: '/',
     icon: HomeModernIcon,
   },
