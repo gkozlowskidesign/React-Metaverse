@@ -44,53 +44,7 @@ const About = () => {
                                     
                                 </div>
                             </div>
-                    </div>
-                    <div class="container mx-auto p-2 px-4">
-
- 
-                        <div class="flex flex-wrap">
-                            <div class="w-full items-center justify-center md:w-11/12 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-4 lg:px-6 gap-6">
-                                <div class="relative flex flex-col mt-4 mb-5">
-                                    <div class="px-4 py-5 flex-auto ring-2 rounded-md">
-                                        <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
-                                        <BiHive class="w-8 h-8" alt="MTOT" />  
-                                        </div>
-                                        <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Hive</h6>
-                                    </div>
-                                </div>
-                                <div class="relative flex flex-col min-w-0 mt-4 mb-5">
-                                    <div class="px-4 py-5 flex-auto ring-2 rounded-md">
-                                        <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
-                                        <BiShieldAlt2 class="w-8 h-8" alt="MTOT" />              
-                                        </div>
-                                            <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Sheild</h6>
-                                    </div>
-                                </div>
-                             </div>
-                             <div class="w-full md:w-11/12 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-4 lg:px-6 gap-6 mb-20">
-                                <div class="relative flex flex-col min-w-0 mt-4 mb-5">
-                                    <div class="px-4 py-5 flex-auto ring-2 rounded-md">
-                                    <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
-                                    <BiReset class="w-8 h-8" alt="MTOT" />  
-                                    </div>
-                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Governance</h6>
-
-                                    </div>
-                                </div>
-                                
-                                <div class="relative flex flex-col min-w-0 mt-4 mb-5">
-                                    <div class="px-4 py-5 flex-auto ring-2 rounded-md">
-                                    <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
-                                    <BiBrain class="w-8 h-8" alt="MTOT" />  
-                                    </div>
-                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Educate</h6>
-
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                        </div>
-                     
+                    </div> 
             </div>
 
    
