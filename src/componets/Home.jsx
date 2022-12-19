@@ -55,7 +55,7 @@ const About = () => {
                                         <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
                                         <BiHive class="w-8 h-8" alt="MTOT" />  
                                         </div>
-                                        <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">BuildingFi</h6>
+                                        <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Build</h6>
                                     </div>
                                 </div>
                                 <div class="relative flex flex-col min-w-0 mt-4 mb-5">
@@ -63,7 +63,7 @@ const About = () => {
                                         <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
                                         <BiShieldAlt2 class="w-8 h-8" alt="MTOT" />              
                                         </div>
-                                            <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">InfraHive</h6>
+                                            <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Sheild</h6>
                                     </div>
                                 </div>
                              </div>
@@ -73,7 +73,7 @@ const About = () => {
                                     <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
                                     <BiReset class="w-8 h-8" alt="MTOT" />  
                                     </div>
-                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">P2PmFi</h6>
+                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Governance</h6>
 
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@ const About = () => {
                                     <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
                                     <BiBrain class="w-8 h-8" alt="MTOT" />  
                                     </div>
-                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">Learn</h6>
+                                    <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Educate</h6>
 
                                     </div>
                                 </div>
