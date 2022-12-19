@@ -16,7 +16,7 @@ const About = () => {
                                     <div className="pt-2  flex items-center justify-center ">
                                         <img className="h-30" src={Logo} alt="MVoT"/> 
                                     </div>     
-                                    <p className="mb-2 text-lg font-medium leading-8 text-white">MVoT DAO</p>
+                                    <p className="mb-2 text-lg font-medium leading-8 text-white">MVoT Home</p>
                                     <h1 className="mt-2 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-white">Metaverse <br></br>
                                     <span className='text-purple-400'>of Things</span></h1>
                                     <p className="mb-2 text-lg font-medium leading-8 text-white">Get Started</p>      
