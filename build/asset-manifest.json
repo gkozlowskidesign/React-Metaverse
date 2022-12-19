@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f68ece2.css",
+    "main.js": "/static/js/main.41be819f.js",
+    "static/media/metaverseofthings_logo.png": "/static/media/metaverseofthings_logo.ecd19f48919fdc4997a9.png",
+    "index.html": "/index.html",
+    "main.6f68ece2.css.map": "/static/css/main.6f68ece2.css.map",
+    "main.41be819f.js.map": "/static/js/main.41be819f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f68ece2.css",
+    "static/js/main.41be819f.js"
+  ]
+}
