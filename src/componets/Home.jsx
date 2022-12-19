@@ -55,7 +55,7 @@ const About = () => {
                                         <div class="text-white p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-5 shadow-lg rounded-full bg-indigo-400">
                                         <BiHive class="w-8 h-8" alt="MTOT" />  
                                         </div>
-                                        <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Build</h6>
+                                        <h6 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black">MVoT Hive</h6>
                                     </div>
                                 </div>
                                 <div class="relative flex flex-col min-w-0 mt-4 mb-5">
