@@ -13,8 +13,8 @@ return (
                 <p>Our team is made up of strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
             <div class="grid grid-cols-2 mt-2">
-                 <img class="mt-4 w-3/6 rounded-lg" src="https://images.pexels.com/photos/1910230/pexels-photo-1910230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
-                 <img class="mt-4 w-3/6 rounded-lg" src="https://images.pexels.com/photos/7629313/pexels-photo-7629313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
+                 <img class="mt-4 w-6/6 rounded-lg" src="https://images.pexels.com/photos/1910230/pexels-photo-1910230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
+                 <img class="mt-4 w-6/6 rounded-lg" src="https://images.pexels.com/photos/7629313/pexels-photo-7629313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-2">
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
