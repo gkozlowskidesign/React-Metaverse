@@ -4,13 +4,13 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  AcademicCapIcon, FolderIcon, UserGroupIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  BuildingOffice2Icon,  AcademicCapIcon, FolderIcon, UserGroupIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
     name: 'MetaverseOT',
     href: '/',
-    icon: HomeModernIcon,
+    icon: BuildingOffice2Icon,
   },
   { name: 'Education', 
     href: '/learning', 
