@@ -11,15 +11,15 @@ const About = () => {
     <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group bg-black  rounded-xl">
 
     <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200" href="http://metaverseofthings.blog">
+                    <svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
-                        <path stroke-linecap="round" stroke-linejoin="round"
-                            d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
-                    </svg></span>
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
+                    </svg>
+                </span>
                 <p class="text-xl font-medium text-slate-700 mt-3">Announcements</p>
-                <p class="mt-2 text-sm text-slate-500">Professional Advice for higher education abroad and select the
-                    top institutions worldwide.</p>
+                <p class="mt-2 text-sm text-slate-500">Professional Advice for higher education abroad and select the top institutions worldwide.</p>
             </div>
 
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
