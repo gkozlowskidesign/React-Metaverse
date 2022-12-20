@@ -10,8 +10,9 @@ const About = () => {
         
     <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group bg-black  rounded-xl">
 
+    <a href="http://metaverseofthings.blog">
     <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200" href="http://metaverseofthings.blog">
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200">
                     <svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
@@ -21,7 +22,7 @@ const About = () => {
                 <p class="text-xl font-medium text-slate-700 mt-3">Announcements</p>
                 <p class="mt-2 text-sm text-slate-500">Professional Advice for higher education abroad and select the top institutions worldwide.</p>
             </div>
-
+        </a>
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
