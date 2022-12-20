@@ -23,6 +23,7 @@ const About = () => {
                 <p class="mt-2 text-sm text-slate-500">Professional Advice for higher education abroad and select the top institutions worldwide.</p>
             </div>
         </a>
+    <a href="/documentation">
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -34,8 +35,8 @@ const About = () => {
                 <p class="mt-2 text-sm text-slate-500">Team BrainEdge education is a bunch of highly focused, energetic
                     set of people.</p>
             </div>
-
-
+      </a>
+    <a href="http://metaverseofthings.blog">
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -49,8 +50,9 @@ const About = () => {
                 <p class="text-xl font-medium text-slate-700 mt-3">Social Media</p>
                 <p class="mt-2 text-sm text-slate-500">Know where you stand and what next to do to succeed .</p>
             </div>
+      </a>
 
-
+      <a href="/learning">
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -60,8 +62,9 @@ const About = () => {
                 <p class="text-xl font-medium text-slate-700 mt-3">Education</p>
                 <p class="mt-2 text-sm text-slate-500">Yet another year ! Yet another jewel in our crown!</p>
             </div>
-
-
+       </a>
+    
+        <a href="http://metaverseofthings.blog">
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -73,7 +76,9 @@ const About = () => {
                 <p class="mt-2 text-sm text-slate-500">Visa process by helping you create the necessary documentation
                 </p>
             </div>
-
+          </a>
+    
+         <a href="http://metaverseofthings.blog">
             <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -85,14 +90,8 @@ const About = () => {
                 <p class="mt-2 text-sm text-slate-500">Get Topic-Wise Tests, Section- Wise and mock tests for your
                     preparation.</p>
             </div>
-
-         
-
-
+           </a>
         </div>
-
-      
-
     </div>
 
                    
