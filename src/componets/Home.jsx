@@ -14,7 +14,6 @@ return (
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/7629313/pexels-photo-7629313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
                 <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://images.pexels.com/photos/11138000/pexels-photo-11138000.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="office content 2"/>
             </div>
             <div class="grid grid-cols-1 gap-4 mt-8">
