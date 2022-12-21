@@ -16,7 +16,7 @@ return (
                               
                         </div>
                         <div>
-                            <p class="font-bold text-base lg:text-lg text-slate-200 leading-4 group-hover:text-indigo-400">Dashboard</p>
+                            <p class="font-bold text-base text-md text-slate-200 leading-4 group-hover:text-indigo-400">Dashboard</p>
                         <p class="text-slate-400 text-sm hidden md:block">DAO Overview</p>
                         </div>
                         
@@ -30,7 +30,7 @@ return (
                               </svg>                              
                         </div>
                         <div>
-                            <p class="font-bold text-base lg:text-lg text-slate-200 leading-4 group-hover:text-indigo-400">Governance</p>
+                            <p class="font-bold text-base text-md text-slate-200 leading-4 group-hover:text-indigo-400">Governance</p>
                         <p class="text-slate-400 text-sm hidden md:block">Vote on Proposals</p>
                         </div>
                         
@@ -46,7 +46,7 @@ return (
                                 
                         </div>
                         <div>
-                            <p class="font-bold text-base lg:text-lg text-slate-200 leading-4 group-hover:text-indigo-400">Discussion</p>
+                            <p class="font-bold text-base text-md  text-slate-200 leading-4 group-hover:text-indigo-400">Discussion</p>
                         <p class="text-slate-400 text-sm hidden md:block">Chat with Community</p>
                         </div>
                     </div>
