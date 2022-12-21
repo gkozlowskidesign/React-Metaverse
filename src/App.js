@@ -28,17 +28,14 @@ function App() {
           <Footer/>
           </Route>
           <Route  path="/dashboard">
-          <Hero/>
           <Connect/>
           <Footer/>
           </Route>
           <Route exact path="/goverance">
-          <Hero/>
           <Governance/>
           <Footer/>
           </Route>
           <Route exact path="/discussion">
-          <Hero/>
           <Discussion/>
           <Footer/>
           </Route>
