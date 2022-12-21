@@ -4,7 +4,7 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon,  AcademicCapIcon, FolderIcon, SquaresPlusIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon, SquaresPlusIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
