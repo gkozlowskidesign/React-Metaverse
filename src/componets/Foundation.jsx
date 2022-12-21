@@ -11,7 +11,7 @@ const About = () => {
     <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group bg-black  rounded-xl">
 
     <a href="http://metaverseofthings.blog">
-    <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+    <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200">
                     <svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -24,7 +24,7 @@ const About = () => {
             </div>
         </a>
     <a href="/documentation">
-            <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+            <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
@@ -36,8 +36,8 @@ const About = () => {
                     set of people.</p>
             </div>
       </a>
-    <a href="http://metaverseofthings.blog">
-            <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+    <a href="https://twitter.com/metaverseot">
+            <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
@@ -47,13 +47,26 @@ const About = () => {
                         <line x1="16" y1="17" x2="8" y2="17"></line>
                         <polyline points="10 9 9 9 8 9"></polyline>
                     </svg></span>
-                <p class="text-xl font-medium text-slate-700 mt-3">Social Media</p>
+                <p class="text-xl font-medium text-slate-700 mt-3">Twitter</p>
                 <p class="mt-2 text-sm text-slate-500">Know where you stand and what next to do to succeed .</p>
             </div>
       </a>
+      <a href="https://www.instagram.com/metaverseofthings/">
+            <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg"><svg
+                        xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                    </svg></span>
+                <p class="text-xl font-medium text-slate-700 mt-3">Instagram</p>
+                <p class="mt-2 text-sm text-slate-500">Get Topic-Wise Tests, Section- Wise and mock tests for your
+                    preparation.</p>
+            </div>
+           </a>
 
       <a href="/learning">
-            <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+            <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
@@ -65,7 +78,7 @@ const About = () => {
        </a>
     
         <a href="http://metaverseofthings.blog">
-            <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
+            <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
                 <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-indigo-200"><svg
                         xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor" stroke-width="1.5">
@@ -77,20 +90,6 @@ const About = () => {
                 </p>
             </div>
           </a>
-    
-         <a href="http://metaverseofthings.blog">
-            <div class="p-10 bg-white flex flex-col items-center  text-center group md:lg:xl:border-b hover:bg-gray-200 cursor-pointer rounded-xl">
-                <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg"><svg
-                        xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
-                        stroke="currentColor" stroke-width="1.5">
-                        <path stroke-linecap="round" stroke-linejoin="round"
-                            d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
-                    </svg></span>
-                <p class="text-xl font-medium text-slate-700 mt-3">FAQs</p>
-                <p class="mt-2 text-sm text-slate-500">Get Topic-Wise Tests, Section- Wise and mock tests for your
-                    preparation.</p>
-            </div>
-           </a>
         </div>
     </div>
 
