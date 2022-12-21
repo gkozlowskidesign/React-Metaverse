@@ -4,21 +4,21 @@ import {
   XMarkIcon,
 
 } from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  BuildingOffice2Icon,  AcademicCapIcon, FolderIcon, UserGroupIcon } from '@heroicons/react/20/solid'
+import { Squares2X2Icon,  HomeModernIcon,  AcademicCapIcon, FolderIcon, SquaresPlusIcon } from '@heroicons/react/20/solid'
 
 const solutions = [
   {
     name: 'MetaverseOT',
     href: '/',
-    icon: BuildingOffice2Icon,
+    icon: HomeModernIcon,
   },
-  { name: 'Education', 
-    href: '/learning', 
-    icon: AcademicCapIcon, 
-  },
-  { name: 'Community', 
+  { name: 'Resources', 
     href: '/foundation', 
-    icon: UserGroupIcon, 
+    icon: SquaresPlusIcon, 
+  },
+  { name: 'Announcements', 
+  href: '/learning', 
+  icon: AcademicCapIcon, 
   },
   { name: 'Documentation', 
     href: '/documentation', 
@@ -60,7 +60,15 @@ export default function Example() {
                                             </div>
                                           </a>
                                         ))}
+                            <div className="relative grid bg-gray-800 ring-4 ring-indigo-400 rounded-xl mx-8 py-3  hover:bg-gray-200">  
+                                  <a href="/dashboard" className="m-1 flex rounded-lg">
+                                    <div className="mx-auto">
+                                      <p className="text-base font-medium text-white">Launch dApp</p>
+                                    </div>
+                                  </a>
+                            </div>
                                 </div>
+                               
                               </div>
                           </Popover.Panel>
                       </Transition>
@@ -93,6 +101,13 @@ export default function Example() {
                       <span className="ml-3 text-base font-medium text-white">{item.name}</span>
                     </a>
                   ))}
+                 <div className="mx-auto w-2/6 bg-gray-800 ring-4 ring-indigo-400 rounded-xl p-2 hover:bg-gray-200">  
+                                  <a href="/dashboard" className="m-1 flex rounded-lg">
+                                    <div className="mx-auto">
+                                      <p className="text-base font-medium text-white">Launch dApp</p>
+                                    </div>
+                                  </a>
+                            </div>
                 </nav>
               </div>
             </div>
@@ -104,3 +119,4 @@ export default function Example() {
     </Popover>
   )
 }
+
