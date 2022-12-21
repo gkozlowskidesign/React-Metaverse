@@ -14,15 +14,16 @@ function App() {
   return (
     <Router>
     <div className="App">
-      <NavBar />
       <div className="content">
         <Switch>
           <Route exact path="/">
+          <NavBar />
           <Hero/>
           <Home/>
           <Footer/>
           </Route>
           <Route exact path="/foundation">
+          <NavBar />      
           <Hero/>
           <Foundation/>
           <Footer/>
@@ -40,11 +41,13 @@ function App() {
           <Footer/>
           </Route>
           <Route  path="/learning">
+          <NavBar />
           <Hero/>
           <Learning/>
           <Footer/> 
           </Route>
           <Route  path="/documentation">
+          <NavBar />
           <Hero/>
           <Documentation/>
           <Footer/>
