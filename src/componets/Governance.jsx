@@ -1,5 +1,4 @@
 import React from 'react'
-import WidgetBot from '@widgetbot/react-embed'
 
 const Social = () => {
 return (
