@@ -16,14 +16,6 @@ const solutions = [
     href: '/foundation', 
     icon: SquaresPlusIcon, 
   },
-  { name: 'Announcements', 
-  href: '/learning', 
-  icon: AcademicCapIcon, 
-  },
-  { name: 'Documentation', 
-    href: '/documentation', 
-    icon: FolderIcon, 
-  },
 ]
 
 
