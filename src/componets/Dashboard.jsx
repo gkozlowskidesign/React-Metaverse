@@ -6,10 +6,6 @@ return (
     <div class="grid grid-cols-12 mx-auto gap-2 sm:gap-4 md:gap-6 lg:gap-10 xl:gap-14 max-w-7xl my-10 px-2">
         <div id="menu" class="bg-white/10 col-span-3 rounded-lg p-4">
             <h1 class="mx-auto font-bold text-lg lg:text-3xl bg-gradient-to-br from-white via-white/50 to-transparent bg-clip-text text-transparent">Connect<span class="text-indigo-400">.</span></h1>
-            <a href="#" class="flex flex-col space-y-2 md:space-y-0 md:flex-row mb-5 items-center md:space-x-2 hover:bg-white/10 group transition duration-150 ease-linear rounded-lg group w-full py-3 px-2">
-                <div className='mx-auto'>
-                </div>
-            </a>
             <div id="menu" class="flex flex-col space-y-2 my-5">
                 <a href="/dashboard" class="hover:bg-white/10 transition duration-150 ease-linear rounded-lg py-3 px-2 group">
                     <div class="flex flex-col space-y-2 md:flex-row md:space-y-0 space-x-2 items-center">
