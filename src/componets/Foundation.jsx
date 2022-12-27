@@ -20,8 +20,6 @@ const About = () => {
                             d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Documentation</p>
-                <p class="mt-2 text-sm text-slate-500">Team BrainEdge education is a bunch of highly focused, energetic
-                    set of people.</p>
             </div>
       </a>
       <a href="http://metaverseofthings.blog">
@@ -33,8 +31,6 @@ const About = () => {
                             d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Announcements</p>
-                <p class="mt-2 text-sm text-slate-500">Team BrainEdge education is a bunch of highly focused, energetic
-                    set of people.</p>
             </div>
       </a>
     
@@ -46,7 +42,6 @@ const About = () => {
                         <path stroke-linecap="round" stroke-linejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Education</p>
-                <p class="mt-2 text-sm text-slate-500">Yet another year ! Yet another jewel in our crown!</p>
             </div>
        </a>
     <a href="https://twitter.com/metaverseot">
@@ -61,7 +56,6 @@ const About = () => {
                         <polyline points="10 9 9 9 8 9"></polyline>
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Twitter</p>
-                <p class="mt-2 text-sm text-slate-500">Know where you stand and what next to do to succeed .</p>
             </div>
       </a>
       <a href="https://www.instagram.com/metaverseofthings/">
@@ -73,8 +67,6 @@ const About = () => {
                             d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Instagram</p>
-                <p class="mt-2 text-sm text-slate-500">Get Topic-Wise Tests, Section- Wise and mock tests for your
-                    preparation.</p>
             </div>
            </a>
     
@@ -87,7 +79,6 @@ const About = () => {
                             d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                     </svg></span>
                 <p class="text-xl font-medium text-gray-400 mt-3">Discord</p>
-                <p class="mt-2 text-sm text-slate-500">Visa process by helping you create the necessary documentation
                 </p>
             </div>
           </a>
