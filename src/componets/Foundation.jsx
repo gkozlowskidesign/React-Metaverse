@@ -8,7 +8,7 @@ return (
   
               <a href="/documentation">
                       <div class="p-16 bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-200 cursor-pointer rounded-xl">
-                          <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-black"><svg
+                          <span class="p-5 rounded-full bg-gradient-to-r from-black via-purple-900 to-pink-900 text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                                   stroke="currentColor" stroke-width="1.5">
                                   <path stroke-linecap="round" stroke-linejoin="round"
@@ -21,7 +21,7 @@ return (
   
                 <a href="http://metaverseofthings.blog">
                       <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group hover:bg-gray-200 cursor-pointer rounded-xl">
-                          <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-black"><svg
+                          <span class="p-5 rounded-full bg-gradient-to-r from-black via-purple-900 to-pink-900 text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                                   stroke="currentColor" stroke-width="1.5">
                                   <path stroke-linecap="round" stroke-linejoin="round"
@@ -34,7 +34,7 @@ return (
 
               <a href="https://twitter.com/metaverseot">
                       <div class="p-10 bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-200 cursor-pointer rounded-xl">
-                          <span class="p-5 rounded-full bg-indigo-400 text-white shadow-lg shadow-black"><svg
+                          <span class="p-5 rounded-full bg-gradient-to-r from-black via-purple-900 to-pink-900 text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                                   stroke="currentColor" stroke-width="1.5">
                                   <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
