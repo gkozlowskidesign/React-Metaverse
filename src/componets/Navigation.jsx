@@ -1,114 +1,55 @@
-import { Fragment } from 'react'
-import { Popover, Transition } from '@headlessui/react'
-import {
-  XMarkIcon,
+import React from 'react'
+import 'flowbite';
+const Navigation = () => {
+return (
 
-} from '@heroicons/react/24/outline'
-import { Squares2X2Icon,  HomeModernIcon, SquaresPlusIcon } from '@heroicons/react/20/solid'
+<nav class="bg-black border-gray-200 px-2 sm:px-4 py-2.5">
+  <div class="container flex flex-wrap items-center justify-between mx-auto">
+    <a href="https://flowbite.com/" class="flex items-center">
+        <img src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true" class="h-20 mr-3" alt="Flowbite Logo" />
+    </a>
+    <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
+      <span class="sr-only">Open main menu</span>
+      <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+    </button>
+    <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+      <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0  dark:border-gray-700">
+        <li>
+          <a href="/" 
+          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 
+          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
+          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
+          md:dark:hover:bg-transparent" 
+          >Getting Started</a>
+        </li>
+        <li>
+          <a href="/foundation" 
+          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 
+          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
+          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
+          md:dark:hover:bg-transparent">Foundations</a>
+        </li>
+        <li>
+          <a href="/learning" 
+          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 
+          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
+          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
+          md:dark:hover:bg-transparent">Education</a>
+        </li>
+        <li>
+          <a href="https://mvot-analyitcs.netlify.app/" class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 
+          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
+          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
+          md:dark:hover:bg-transparent">Finance</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
 
-const solutions = [
-  {
-    name: 'MetaverseOT',
-    href: '/',
-    icon: HomeModernIcon,
-  },
-  { name: 'Resources', 
-    href: '/foundation', 
-    icon: SquaresPlusIcon, 
-  },
-]
 
-
-
-function classNames(...classes) {
-  return classes.filter(Boolean).join(' ')
-}
-
-export default function Example() {
-  return (
-   <Popover className="relative bg-indigo-900">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6">
-        <div className="flex items-center justify-between border-black py-6 md:justify-start md:space-x-10">
-          <div className="-my-2 -mr-2 md:hidden">
-            <Popover.Button className="inline-flex items-center justify-center rounded-md bg-indigo-900 p-2 text-white hover:bg-indigo-900 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
-              <span className="sr-only">Open menu</span>
-              <Squares2X2Icon className="h-6 w-6" aria-hidden="true" />
-            </Popover.Button>
-          </div>
-            <Popover.Group as="nav" className="hidden space-x-10 md:flex">
-                  <Popover className="relative">{({ open }) => (<>
-                    <Popover.Button className={classNames(open ? 'text-gray-900' : 'text-gray-100','group inline-flex mr-2 items-center rounded-md bg-indigo-900 text-base font-medium hover:text-gray-100 focus:outline-none focus:ring-10 focus:ring-indigo-500 focus:ring-offset-10')}>
-                          <Squares2X2Icon className={classNames(open ? 'text-white' : 'text-white','h-10 w-10 group-hover:text-gray-500')} aria-hidden="true" />
-                    </Popover.Button>
-                      <Transition as={Fragment} enter="transition ease-out duration-200" enterFrom="opacity-0 translate-y-1" enterTo="opacity-100 translate-y-0" leave="transition ease-in duration-150" leaveFrom="opacity-100 translate-y-0" leaveTo="opacity-0 translate-y-1">
-                          <Popover.Panel className="absolute z-10 -ml-4 mt-5 w-screen max-w-xs transform px-2 sm:px-0 lg:left-1/2 lg:ml-0 lg:-translate-x-1/2">
-                              <div className="overflow-hidden rounded-xl shadow-lg ring-1 ring-black ring-opacity-5">
-                                <div className="relative grid gap-6 bg-gradient-to-b from-indigo-900 to-indigo-700 px-5 py-6 sm:gap-8 sm:p-8">
-                                        {solutions.map((item) => (
-                                          <a key={item.name} href={item.href} className="-m-3 flex items-start rounded-lg p-5 hover:bg-gray-200">
-                                            <item.icon className="h-6 w-6 flex-shrink-0 text-indigo-200" aria-hidden="true" />
-                                            <div className="ml-4">
-                                              <p className="text-base font-medium text-white">{item.name}</p>
-                                            </div>
-                                          </a>
-                                        ))}
-                            <div className="relative grid bg-gray-800 ring-4 ring-indigo-400 rounded-xl mx-8 py-3  hover:bg-gray-200">  
-                                  <a href="/dashboard" className="m-1 flex rounded-lg">
-                                    <div className="mx-auto">
-                                      <p className="text-base font-medium text-white">Launch dApp</p>
-                                    </div>
-                                  </a>
-                            </div>
-                                </div>
-                               
-                              </div>
-                          </Popover.Panel>
-                      </Transition>
-                      </>)}
-                  </Popover>
-            </Popover.Group>
-        </div>
-      </div>
-      <Transition as={Fragment} enter="duration-200 ease-out" enterFrom="opacity-0 scale-95" enterTo="opacity-100 scale-100" leave="duration-100 ease-in" leaveFrom="opacity-100 scale-100"leaveTo="opacity-0 scale-95">
-        <Popover.Panel focus className="absolute inset-x-0 top-0 origin-top-right transform p-2 transition md:hidden">
-          <div className="divide-y-2 divide-gray-50 rounded-xl bg-gradient-to-b from-indigo-900 to-indigo-700 shadow-lg ring-1 ring-black ring-opacity-5">
-            <div className="px-5 pt-5 pb-6">
-              <div className="flex items-center justify-between">
-                <div className="-mr-2">
-                  <Popover.Button className="inline-flex items-center justify-center rounded-md bg-indigo-900 p-2 text-white hover:bg-indigo-200 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
-                    <span className="sr-only">Close menu</span>
-                    <XMarkIcon className="h-6 w-6" aria-hidden="true" />
-                  </Popover.Button>
-                </div>
-              </div>
-              <div className="mt-6">
-                <nav className="grid gap-y-8">
-                  {solutions.map((item) => (
-                    <a
-                      key={item.name}
-                      href={item.href}
-                      className="-m-3 flex items-center rounded-md p-3 hover:bg-gray-50"
-                    >
-                      <item.icon className="h-6 w-6 flex-shrink-0 text-indigo-200" aria-hidden="true" />
-                      <span className="ml-3 text-base font-medium text-white">{item.name}</span>
-                    </a>
-                  ))}
-                 <div className="mx-auto w-2/6 bg-gray-800 ring-4 ring-indigo-400 rounded-xl p-2 hover:bg-gray-200">  
-                                  <a href="/dashboard" className="m-1 flex rounded-lg">
-                                    <div className="mx-auto">
-                                      <p className="text-base font-medium text-white">Launch dApp</p>
-                                    </div>
-                                  </a>
-                            </div>
-                </nav>
-              </div>
-            </div>
-        
-           
-          </div>
-        </Popover.Panel>
-      </Transition>
-    </Popover>
-  )
-}
-
+)};
+export default Navigation
+            
+   
