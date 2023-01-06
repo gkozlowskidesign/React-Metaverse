@@ -5,7 +5,7 @@ const About = () => {
   return (
 <div>
              
-<div class="px-3 md:lg:xl:px-40 py-20  bg-black">
+<div class="px-3 md:lg:xl:px-40 py-20 bg-gradient-to-b from-black via-purple-900 to-pink-900">
         
         
     <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group bg-black  rounded-xl">
