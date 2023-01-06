@@ -3,8 +3,6 @@ import Hero from "./componets/Hero";
 import Home from "./componets/Home";
 import Learning from "./componets/Learning";
 import Foundation from "./componets/Foundation";
-import Documentation from "./componets/Documentation";
-import Connect  from "./componets/Dashboard";
 import Footer from "./componets/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
