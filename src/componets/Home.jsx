@@ -4,7 +4,7 @@ return (
 <div class="bg-black">
     <div class="bg-gradient-to-b from-black via-purple-900 to-pink-900">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
-            <div class="font-bold text-indigo-400">
+            <div class="font-thin text-indigo-400">
                 <h2 class="mb-4 text-3xl font-extrabold text-white dark:text-white">Future Infrastructure and Applications</h2>
 
                 <p class="mb-4">We are at a pivtol moment in history where Blockchain, 
