@@ -1,5 +1,4 @@
 import NavBar from "./componets/Navigation";
-import Hero from "./componets/Hero";
 import Home from "./componets/Home";
 import Learning from "./componets/Learning";
 import Foundation from "./componets/Foundation";
