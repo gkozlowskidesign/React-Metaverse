@@ -3,7 +3,7 @@ import 'flowbite';
 const Navigation = () => {
 return (
 
-<nav class="bg-black border-gray-200 px-2 sm:px-4 py-2.5">
+<nav class="bg-black border-indigo-700 px-2 sm:px-4 py-2.5">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="https://flowbite.com/" class="flex items-center">
         <img src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true" class="h-20 mr-3" alt="Flowbite Logo" />
