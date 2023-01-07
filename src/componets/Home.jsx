@@ -8,8 +8,8 @@ return (
                 <h2 class="mb-4 text-3xl font-extrabold text-white dark:text-white">Future Infrastructure and Applications</h2>
 
                 <p class="mb-4">We are at a pivtol moment in history where Blockchain, 
-                Cloud-Infrastructure and the Internet and IoT are actually making a difference in 
-                both business and personal life operations.</p>
+                Cloud-Infrastructure, and the Internet of Things are actually making huge differences in 
+                both businesses and personal life operations.</p>
                
                 <p  class="mb-4">We aim to build three base services with the intentions of later tokenizing the whole 
                 company and going fully decentralized as a future DAO. Until then we will be focusing on building the brand
