@@ -2,51 +2,132 @@ import React from 'react'
 import 'flowbite';
 const Navigation = () => {
 return (
-<nav class="bg-black border-indigo-700 px-2 sm:px-4 py-2.5">
-  <div class="container flex flex-wrap items-center justify-between mx-auto">
-    <a href="https://flowbite.com/" class="flex items-center">
-        <img src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true" class="h-20 mr-3" alt="Flowbite Logo" />
-    </a>
-    <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
-      <span class="sr-only">Open main menu</span>
-      <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
-    </button>
-    <div class="hidden w-full md:block md:w-auto" id="navbar-default">
-      <ul class="flex flex-col p-4 mt-4 border border-indigo-700 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
-        <li>
-          <a href="/" 
-          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-indigo-700 
-          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
-          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
-          md:dark:hover:bg-transparent" 
-          >Getting Started</a>
-        </li>
-        <li>
-          <a href="/foundation" 
-          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-indigo-700 
-          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
-          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
-          md:dark:hover:bg-transparent">Foundations</a>
-        </li>
-        <li>
-          <a href="/learning" 
-          class="block py-2 pl-3 pr-4 text-white rounded hover:bg-indigo-700 
-          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
-          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
-          md:dark:hover:bg-transparent">Education</a>
-        </li>
-        <li>
-          <a href="https://mvot-analyitcs.netlify.app/" class="block py-2 pl-3 pr-4 text-white rounded hover:bg-indigo-700 
-          md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-white
-          md:dark:hover:text-purple-700 dark:hover:bg-purple-700 dark:hover:text-purple-700 
-          md:dark:hover:bg-transparent">Finance</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-  
+
+<div class="h-screen w-full flex  bg-black items-center  jusitfy-center mx-auto">
+
+<div class="items-center text-center mx-auto flex flex-col">
+
+		<section class="md:hidden flex items-center w-full mt-40">
+			<a class="mx-auto" href="http://svelte.dev/">
+				<img
+					class="w-6/6 mx-auto pl-16"
+					src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true"
+					alt="svelte logo" />
+			</a>
+		</section>
+		<section className='invisible lg:visible'>
+				<h1 className="mt-10 mb-2 text-[4rem] font-bold font-extrabold text-transparent text-3xl sm:text-7xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
+                <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
+                <h3 className="mb-2 text-[1rem] font-bold leading-8 text-white">Explore the Destination of Discovery!</h3> 
+		</section>
+               
+
+        </div>
+    
+
+	<aside
+		class="flex flex-col items-center  bg-black text-gray-700  h-full pb-10">
+
+		<div class="h-16 flex items-center w-full">
+			<a class="w-full mx-auto" href="http://svelte.dev/">
+				<img
+					class="w-10 mx-auto"
+					src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true"
+					alt="svelte logo" />
+			</a>
+		</div>
+
+		<ul>
+			<li class="hover:bg-purple-400 hover:text-pink-700 mt-40 rounded-xl">
+				<a
+					href="/"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-orange-500">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none" viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+  					<path stroke-linecap="round" 
+					stroke-linejoin="round" 
+					d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 
+					12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 
+					1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 
+					0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+					</svg>
+				</a>
+			</li>
+
+			<li class="hover:bg-purple-400 hover:text-pink-700 mt-6 rounded-xl">
+				<a
+					href="/foundation"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-orange-500">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none" 
+					viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+  					<path stroke-linecap="round" 
+					stroke-linejoin="round" 
+					d="M13.5 16.875h3.375m0 0h3.375m-3.375 0V13.5m0 3.375v3.375M6 10.5h2.25a2.25 
+					2.25 0 002.25-2.25V6a2.25 2.25 0 00-2.25-2.25H6A2.25 2.25 0 003.75 6v2.25A2.25 2.25 
+					0 006 10.5zm0 9.75h2.25A2.25 2.25 0 0010.5 18v-2.25a2.25 2.25 0 00-2.25-2.25H6a2.25 
+					2.25 0 00-2.25 2.25V18A2.25 2.25 0 006 20.25zm9.75-9.75H18a2.25 2.25 0 002.25-2.25V6A2.25 
+					2.25 0 0018 3.75h-2.25A2.25 2.25 0 0013.5 6v2.25a2.25 2.25 0 002.25 2.25z" />
+					</svg>
+				</a>
+			</li>
+
+			<li class="hover:bg-purple-400 hover:text-pink-700 mt-6 rounded-xl">
+				<a
+					href="/learning"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-orange-500">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none" 
+					viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+					<path stroke-linecap="round" 
+					stroke-linejoin="round" 
+					d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 
+					20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 
+					0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 
+					5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 
+					0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 
+					8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5" />
+					</svg>
+				</a>
+			</li>
+
+			<li class="hover:bg-purple-400 hover:text-pink-700 mt-6 rounded-xl">
+				<a
+					href="https://mvot-analyitcs.netlify.app/"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-orange-500">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none" 
+					viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+  					<path stroke-linecap="round" 
+					stroke-linejoin="round" d="M15.59 14.37a6 6 0 01-5.84 7.38v-4.8m5.84-2.58a14.98 14.98 
+					0 006.16-12.12A14.98 14.98 0 009.631 8.41m5.96 5.96a14.926 14.926 0 01-5.841 2.58m-.119-8.54a6 6 
+					0 00-7.381 5.84h4.8m2.581-5.84a14.927 14.927 0 00-2.58 5.84m2.699 2.7c-.103.021-.207.041-.311.06a15.09 
+					15.09 0 01-2.448-2.448 14.9 14.9 0 01.06-.312m-2.24 2.39a4.493 4.493 0 00-1.757 4.306 4.493 4.493 0 
+					004.306-1.758M16.5 9a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z" />
+					</svg>
+				</a>
+			</li>
+		</ul>
+	</aside>
+</div>
 )};
 export default Navigation
             
+   
    
