@@ -14,19 +14,16 @@ function App() {
         <Switch>
           <Route exact path="/">
           <NavBar />
-          <Hero/>
           <Home/>
           <Footer/>
           </Route>
           <Route exact path="/foundation">
           <NavBar />      
-          <Hero/>
           <Foundation/>
           <Footer/>
           </Route>
           <Route  path="/learning">
           <NavBar />
-          <Hero/>
           <Learning/>
           <Footer/> 
           </Route>
