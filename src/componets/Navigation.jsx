@@ -114,7 +114,12 @@ return (
 			<a class="mx-auto" href="https://metaverseot.xyz/">
 			</a>
 		</section>
-		<section className='visible'>
+	
+		<section className='visible lg:invisible'>
+				<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">M<br></br>
+                <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>VoT</span></h1>
+		</section>
+		<section className='invisible lg:visible'>
 				<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
                 <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
 		</section>
