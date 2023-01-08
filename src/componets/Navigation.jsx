@@ -110,14 +110,13 @@ return (
 	</aside>
 	<div class="mx-auto flex flex-col">
 
-		<section class="md:hidden flex items-center w-full mt-40">
+		<section class="md:hidden flex items-center w-full mt-10">
 			<a class="mx-auto" href="https://metaverseot.xyz/">
 			</a>
 		</section>
 		<section className='visible'>
-				<h1 className="mt-10 mb-2 text-[4rem] font-bold font-extrabold text-transparent text-3xl sm:text-7xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
+				<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
                 <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
-                <h3 className="mb-2 text-[1rem] font-bold leading-8 text-white">Explore the Destination of Discovery!</h3> 
 		</section>
                
 
