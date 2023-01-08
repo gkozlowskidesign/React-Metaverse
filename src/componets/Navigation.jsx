@@ -112,13 +112,9 @@ return (
 
 		<section class="md:hidden flex items-center w-full mt-40">
 			<a class="mx-auto" href="http://svelte.dev/">
-				<img
-					class="w-6/6 mx-auto pl-16"
-					src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true"
-					alt="svelte logo" />
 			</a>
 		</section>
-		<section className='invisible lg:visible'>
+		<section className='visible'>
 				<h1 className="mt-10 mb-2 text-[4rem] font-bold font-extrabold text-transparent text-3xl sm:text-7xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
                 <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
                 <h3 className="mb-2 text-[1rem] font-bold leading-8 text-white">Explore the Destination of Discovery!</h3> 
