@@ -7,18 +7,18 @@ return (
             <div class="font-thin text-indigo-400">
                 <h2 class="mb-4 text-3xl font-extrabold text-white dark:text-white">Future Infrastructure and Applications</h2>
 
-                <p class="mb-4">We are at a pivtol moment in history where Blockchain, 
-                Cloud-Infrastructure, and the Internet of Things are actually making huge differences in 
-                both businesses and personal life operations.</p>
+                <p class="mb-4 text-xl">As we continue to witness the convergence of blockchain, cloud infrastructure, and the Internet of Things (IoT), 
+                we are presented with a unique opportunity to leverage these technologies to drive transformative change in both business and personal 
+                spheres. At MetverseOfThings (MVoT), we are committed to building a strong foundation for web3 adoption and empowering businesses to achieve greater 
+                levels of autonomy, efficiency, and intelligence.</p>
                
-                <p  class="mb-4">We aim to build three base services with the intentions of later tokenizing the whole 
-                company and going fully decentralized as a future DAO. Until then we will be focusing on building the brand
-                making three seperate products and services that can actually change the world through IoT and blockchain.</p>
-
-                <p  class="mb-4">The three product/services first focus on creating a base foundation for supporting web3 and helping businesses become smarter, faster, and more autonomous.</p> 
+                <p  class="mb-4">To achieve this goal, we are developing three distinct products and services that aim to revolutionize the way we 
+                interact with the digital world. Our team of strategists, designers, and developers are dedicated to creating innovative solutions 
+                to real-world challenges, and we are well-equipped to deliver on your needs with agility and excellence.</p>
                
-                <p  class="mb-4">Our team is made up of strategists, designers and developers. Innovators and problem solvers. 
-                Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                <p  class="mb-4">As we move towards our ultimate goal of becoming a decentralized autonomous organization (DAO), 
+                 we are focused on building a strong brand and delivering value through our three core offerings. With a focus on 
+                 the metaverse and cloud technology, we are poised to make a lasting impact on the global stage.</p>
             </div>
             <div class="grid grid-cols-1 gap-4 mt-8">
             <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true" alt="office content 2"/>
