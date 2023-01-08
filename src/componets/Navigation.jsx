@@ -20,8 +20,8 @@ return (
 			</a>
 		</div>
 
-		<ul>
-				<li class="pl-4 ring-4 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+		<ul className="pl-4">
+				<li class="ring-4 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
