@@ -12,11 +12,11 @@ return (
                 spheres. At MetverseOfThings (MVoT), we are committed to building a strong foundation for web3 adoption and empowering businesses to achieve greater 
                 levels of autonomy, efficiency, and intelligence.</p>
                
-                <p  class="mb-4">To achieve this goal, we are developing three distinct products and services that aim to revolutionize the way we 
+                <p  class="mb-4  text-xl">To achieve this goal, we are developing three distinct products and services that aim to revolutionize the way we 
                 interact with the digital world. Our team of strategists, designers, and developers are dedicated to creating innovative solutions 
                 to real-world challenges, and we are well-equipped to deliver on your needs with agility and excellence.</p>
                
-                <p  class="mb-4">As we move towards our ultimate goal of becoming a decentralized autonomous organization (DAO), 
+                <p  class="mb-4  text-xl">As we move towards our ultimate goal of becoming a decentralized autonomous organization (DAO), 
                  we are focused on building a strong brand and delivering value through our three core offerings. With a focus on 
                  the metaverse and cloud technology, we are poised to make a lasting impact on the global stage.</p>
             </div>
