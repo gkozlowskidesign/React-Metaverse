@@ -21,11 +21,11 @@ return (
 		</div>
 
 		<ul>
-				<li class="hover:bg-indigo-600 hover:text-white mt-40 rounded-xl">
+				<li class="ring-4 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
-					focus:text-orange-500">
+					focus:text-white">
 					<svg xmlns="http://www.w3.org/2000/svg" 
 					fill="none" viewBox="0 0 24 24" 
 					stroke-width="1.5" 
