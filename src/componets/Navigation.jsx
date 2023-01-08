@@ -5,7 +5,7 @@ return (
 <div class="h-screen w-full flex  bg-black items-center  jusitfy-center mx-auto">
 	<aside class="flex flex-col items-center  bg-black text-gray-700  h-full pb-10">
 	
-		/* Navigation Top Icon */
+{/* Navigation Top Icon */}
 		<div class="h-16 flex items-center w-full">
 			<a class="w-full mx-auto" href="https://metaverseot.xyz/">
 			<img
@@ -14,9 +14,10 @@ return (
 			alt="MetaverseOfThings Logo" />
 			</a>
 		</div>
-		/* Navigation */
+{/* Navigation */}
 		<ul className="pl-4">
-			/* Home Navigation Icon */
+			
+{/* Home Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 					<a
 					href="/"
@@ -36,7 +37,7 @@ return (
 					</svg>
 					</a>
 			</li>
-			/* Dashboard Navigation Icon */
+{/* Dashboard Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 					<a
 					href="/foundation"
@@ -58,7 +59,7 @@ return (
 					</svg>
 					</a>
 			</li>
-			/* Learning Navigation Icon */
+{/* Learning Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 					<a
 					href="/learning"
@@ -81,7 +82,7 @@ return (
 					</svg>
 					</a>
 			</li>
-			/* Rocket Navigation Icon */
+{/* Rocket Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 					<a
 					href="https://mvot-analyitcs.netlify.app/"
@@ -104,7 +105,7 @@ return (
 			</li>
 		</ul>
 </aside>
-		/* Navigation Title Text */
+{/* Navigation Title Text */}
 		<div class="mx-auto flex flex-col">
 			<section className='visible lg:invisible'>
 			<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">
