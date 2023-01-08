@@ -45,7 +45,7 @@ return (
 				<a
 					href="/foundation"
 					class="h-16 px-6 flex flex justify-center items-center w-full
-					focus:text-orange-500">
+					focus:text-white">
 					<svg xmlns="http://www.w3.org/2000/svg" 
 					fill="none" 
 					viewBox="0 0 24 24" 
@@ -63,11 +63,11 @@ return (
 				</a>
 			</li>
 
-				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 r rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 				<a
 					href="/learning"
 					class="h-16 px-6 flex flex justify-center items-center w-full
-					focus:text-orange-500">
+					focus:text-white">
 					<svg xmlns="http://www.w3.org/2000/svg" 
 					fill="none" 
 					viewBox="0 0 24 24" 
@@ -86,11 +86,11 @@ return (
 				</a>
 			</li>
 
-				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rrounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 				<a
 					href="https://mvot-analyitcs.netlify.app/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
-					focus:text-orange-500">
+					focus:text-white">
 					<svg xmlns="http://www.w3.org/2000/svg" 
 					fill="none" 
 					viewBox="0 0 24 24" 
@@ -108,10 +108,10 @@ return (
 			</li>
 		</ul>
 	</aside>
-	<div class="items-center text-center mx-auto flex flex-col">
+	<div class="mx-auto flex flex-col">
 
 		<section class="md:hidden flex items-center w-full mt-40">
-			<a class="mx-auto" href="http://svelte.dev/">
+			<a class="mx-auto" href="https://metaverseot.xyz/">
 			</a>
 		</section>
 		<section className='visible'>
