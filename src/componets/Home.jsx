@@ -21,7 +21,7 @@ return (
                 Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
             </div>
             <div class="grid grid-cols-1 gap-4 mt-8">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/Intro_Overgrown.png?raw=true" alt="office content 2"/>
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true" alt="office content 2"/>
             </div>
         </div>
     </div>    
