@@ -21,7 +21,7 @@ return (
 		</div>
 
 		<ul className="pl-4">
-				<li class="ring-4 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
@@ -41,7 +41,7 @@ return (
 				</a>
 			</li>
 
-			<li class="hover:bg-indigo-600 hover:text-white mt-6 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="/foundation"
 					class="h-16 px-6 flex flex justify-center items-center w-full
@@ -63,7 +63,7 @@ return (
 				</a>
 			</li>
 
-			<li class="hover:bg-indigo-600 hover:text-white mt-6 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="/learning"
 					class="h-16 px-6 flex flex justify-center items-center w-full
@@ -86,7 +86,7 @@ return (
 				</a>
 			</li>
 
-			<li class="hover:bg-indigo-600 hover:text-white mt-6 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
 				<a
 					href="https://mvot-analyitcs.netlify.app/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
