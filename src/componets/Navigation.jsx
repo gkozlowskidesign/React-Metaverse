@@ -5,31 +5,14 @@ return (
 
 <div class="h-screen w-full flex  bg-black items-center  jusitfy-center mx-auto">
 
-<div class="items-center text-center mx-auto flex flex-col">
 
-		<section class="md:hidden flex items-center w-full mt-40">
-			<a class="mx-auto" href="http://svelte.dev/">
-				<img
-					class="w-6/6 mx-auto pl-16"
-					src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true"
-					alt="svelte logo" />
-			</a>
-		</section>
-		<section className='invisible lg:visible'>
-				<h1 className="mt-10 mb-2 text-[4rem] font-bold font-extrabold text-transparent text-3xl sm:text-7xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
-                <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
-                <h3 className="mb-2 text-[1rem] font-bold leading-8 text-white">Explore the Destination of Discovery!</h3> 
-		</section>
-               
-
-        </div>
     
 
 	<aside
 		class="flex flex-col items-center  bg-black text-gray-700  h-full pb-10">
 
 		<div class="h-16 flex items-center w-full">
-			<a class="w-full mx-auto" href="http://svelte.dev/">
+			<a class="w-full mx-auto" href="https://metaverseot.xyz/">
 				<img
 					class="w-10 mx-auto"
 					src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true"
@@ -125,6 +108,24 @@ return (
 			</li>
 		</ul>
 	</aside>
+	<div class="items-center text-center mx-auto flex flex-col">
+
+		<section class="md:hidden flex items-center w-full mt-40">
+			<a class="mx-auto" href="http://svelte.dev/">
+				<img
+					class="w-6/6 mx-auto pl-16"
+					src="https://github.com/gkozlowskidesign/React-MVoT-Website/blob/codespace-gkozlowskidesign-opulent-chainsaw-59jvrpj6p56fp7w5/MVOT%20LOGO%20copy.png?raw=true"
+					alt="svelte logo" />
+			</a>
+		</section>
+		<section className='invisible lg:visible'>
+				<h1 className="mt-10 mb-2 text-[4rem] font-bold font-extrabold text-transparent text-3xl sm:text-7xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
+                <span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span></h1>
+                <h3 className="mb-2 text-[1rem] font-bold leading-8 text-white">Explore the Destination of Discovery!</h3> 
+		</section>
+               
+
+        </div>
 </div>
 )};
 export default Navigation
