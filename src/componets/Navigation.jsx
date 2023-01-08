@@ -107,7 +107,7 @@ return (
 </aside>
 {/* Navigation Title Text */}
 		<div class="mx-auto flex flex-col">
-			<section className='visible lg:invisible'>
+			<section className='visible lg:invisible ml-4'>
 			<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">
 			M<span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>VoT</span>
 			</h1>
