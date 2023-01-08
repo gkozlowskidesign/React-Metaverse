@@ -41,7 +41,7 @@ return (
 				</a>
 			</li>
 
-				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 				<a
 					href="/foundation"
 					class="h-16 px-6 flex flex justify-center items-center w-full
@@ -63,7 +63,7 @@ return (
 				</a>
 			</li>
 
-				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 r rounded-xl">
 				<a
 					href="/learning"
 					class="h-16 px-6 flex flex justify-center items-center w-full
@@ -86,7 +86,7 @@ return (
 				</a>
 			</li>
 
-				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+				<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rrounded-xl">
 				<a
 					href="https://mvot-analyitcs.netlify.app/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
