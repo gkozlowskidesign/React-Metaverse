@@ -35,7 +35,7 @@ return (
                                   <line x1="16" y1="17" x2="8" y2="17"></line>
                                   <polyline points="10 9 9 9 8 9"></polyline>
                               </svg></span>
-                          <p class="text-xl font-medium text-gray-500 mt-3">Mirror</p>
+                          <p class="text-xl font-medium text-gray-500 mt-3">GitBook</p>
                       </div>
                 </a>
  {/* Foundations Linked Object Card */}
@@ -80,7 +80,7 @@ return (
                                   <line x1="16" y1="17" x2="8" y2="17"></line>
                                   <polyline points="10 9 9 9 8 9"></polyline>
                               </svg></span>
-                          <p class="text-xl font-medium text-gray-500  mt-3">Twitter</p>
+                          <p class="text-xl font-medium text-gray-500  mt-3">Announcements</p>
                       </div>
                 </a>
   {/* Foundations Linked Object Card */}
@@ -111,7 +111,7 @@ return (
                                   <line x1="16" y1="17" x2="8" y2="17"></line>
                                   <polyline points="10 9 9 9 8 9"></polyline>
                               </svg></span>
-                          <p class="text-xl font-medium text-gray-500  mt-3">Reddit</p>
+                          <p class="text-xl font-medium text-gray-500  mt-3">Discord</p>
                       </div>
                 </a>
 
@@ -143,7 +143,7 @@ return (
                                   <line x1="16" y1="17" x2="8" y2="17"></line>
                                   <polyline points="10 9 9 9 8 9"></polyline>
                               </svg></span>
-                          <p class="text-xl font-medium text-gray-500  mt-3">Twitter</p>
+                          <p class="text-xl font-medium text-gray-500  mt-3">Twitch</p>
                       </div>
                 </a>
   
