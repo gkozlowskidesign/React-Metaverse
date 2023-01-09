@@ -3,7 +3,7 @@ const Home = () => {
 return (
 <div class="bg-black">
     <div class="bg-gradient-to-b from-black via-purple-900 to-indigo-700">
-        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-1 lg:py-16 lg:px-6">
             <div class="font-thin text-indigo-400">
                 <h2 class="mb-4 text-3xl font-extrabold text-white dark:text-white">Future Infrastructure and Applications</h2>
 
@@ -19,9 +19,6 @@ return (
                 <p  class="mb-4  text-xl">As we move towards our ultimate goal of becoming a decentralized autonomous organization (DAO), 
                  we are focused on building a strong brand and delivering value through our three core offerings. With a focus on 
                  the metaverse and cloud technology, we are poised to make a lasting impact on the global stage.</p>
-            </div>
-            <div class="grid grid-cols-1 gap-4 mt-8">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true" alt="office content 2"/>
             </div>
         </div>
     </div>    
