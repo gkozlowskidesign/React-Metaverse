@@ -2,7 +2,7 @@ import React from 'react'
 const Foundation = () => {
 return (
   <div>           
-    <div class="px-3 md:lg:xl:px-40 py-20 bg-gradient-to-b from-black to-indigo-700">
+    <div class="px-3 md:lg:xl:px-40 py-20 bg-gradient-to-b from-black via-purple-900 to-indigo-700">
       <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group rounded-xl">
   
   
