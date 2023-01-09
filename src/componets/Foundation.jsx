@@ -7,7 +7,7 @@ return (
 
    {/* Foundations Linked Object Card */}
                 <a href="http://metaverseot.xyz" className="pb-20">
-                      <div class="p-10 w-6/6 mx-auto bg-gray-900 ring-4 ring-purple-600 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
+                      <div class="p-4 w-6/6 mx-auto bg-gray-900 ring-4 ring-purple-600 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-black  text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
                                   stroke="currentColor" stroke-width="1.5">
@@ -22,7 +22,7 @@ return (
                 </a>
             </div>
 
-      <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-8 group rounded-xl">
+      <div class="grid grid-cols-2 md:lg:xl:grid-cols-4 gap-8 group rounded-xl">
  {/* Foundations Linked Object Card */}
                 <a href="http://metaverseot.xyz">
                       <div class="p-10 w-5/6 mx-auto bg-gray-900 ring-4 ring-purple-600 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
