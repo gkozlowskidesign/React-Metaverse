@@ -24,7 +24,7 @@ return (
 
       <div class="grid grid-cols-2 md:lg:xl:grid-cols-4 gap-8 group rounded-xl">
  {/* Foundations Linked Object Card */}
-                <a href="http://metaverseot.xyz">
+                <a href="https://gary-kozlowski.gitbook.io/metaverseofthings/">
                       <div class="p-4 w-6/6 mx-auto bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-gradient-to-b from-gray-700 via-gray-900 to-gray-700  text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -39,7 +39,7 @@ return (
                       </div>
                 </a>
  {/* Foundations Linked Object Card */}
-                <a href="http://metaverseot.xyz">
+                <a href="https://mirror.xyz/0x38034A81D48cBf8D4c4C757856d14492C848015b">
                       <div class="p-4  w-6/6 mx-auto bg-gray-900  flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-gradient-to-b from-gray-700 via-gray-900 to-gray-700  text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -54,7 +54,7 @@ return (
                       </div>
                 </a>
   {/* Foundations Linked Object Card */}
-              <a href="https://twitter.com/metaverseot">
+              <a href="https://medium.com/@metaverseofthings">
                       <div class="p-4  w-6/6 mx-auto bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-gradient-to-b from-gray-700 via-gray-900 to-gray-700   text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -116,7 +116,7 @@ return (
                 </a>
 
  {/* Foundations Linked Object Card */}
-              <a href="https://twitter.com/metaverseot">
+              <a href="https://www.reddit.com/r/metaverseofthings/">
                       <div class="p-4  w-6/6 mx-auto bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-gradient-to-b from-gray-700 via-gray-900 to-gray-700   text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
@@ -127,12 +127,12 @@ return (
                                   <line x1="16" y1="17" x2="8" y2="17"></line>
                                   <polyline points="10 9 9 9 8 9"></polyline>
                               </svg></span>
-                          <p class="text-xl font-medium text-gray-500  mt-3">Twitter</p>
+                          <p class="text-xl font-medium text-gray-500  mt-3">Reddit</p>
                       </div>
                 </a>
 
  {/* Foundations Linked Object Card */}
-              <a href="https://twitter.com/metaverseot">
+              <a href="https://www.twitch.tv/metaverseofthings">
                       <div class="p-4 w-6/6 mx-auto bg-gray-900 flex flex-col items-center  text-center group  hover:bg-gray-800 cursor-pointer rounded-xl">
                           <span class="p-5 rounded-full  bg-gradient-to-b from-gray-700 via-gray-900 to-gray-700   text-white shadow-lg shadow-black"><svg
                                   xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24"
