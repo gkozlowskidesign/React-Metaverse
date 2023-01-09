@@ -82,7 +82,7 @@ return (
 					</svg>
 					</a>
 			</li>
-{/* Rocket Navigation Icon */}
+{/* Chart Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 					<a
 					href="https://metaverseofthings-analyitcs.netlify.app/"
