@@ -2,8 +2,8 @@ import React from 'react'
 import 'flowbite';
 const Navigation = () => {
 return (
-<div class="h-screen w-full flex  bg-black items-center  jusitfy-center mx-auto">
-	<aside class="flex flex-col items-center  bg-black text-gray-700 h-full ">
+<div class="w-full flex  bg-black items-center  jusitfy-center mx-auto">
+	<aside class="flex flex-col items-center  bg-black text-gray-700">
 	
 {/* Navigation Top Icon */}
 		<div class="h-16 flex items-center w-full">
