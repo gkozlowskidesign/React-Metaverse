@@ -3,7 +3,7 @@ import 'flowbite';
 const Navigation = () => {
 return (
 <div class="h-screen w-full flex  bg-black items-center  jusitfy-center mx-auto">
-	<aside class="flex flex-col items-center  bg-black text-gray-700  h-full pb-10">
+	<aside class="flex flex-col items-center  bg-black text-gray-700 h-full ">
 	
 {/* Navigation Top Icon */}
 		<div class="h-16 flex items-center w-full">
@@ -18,7 +18,7 @@ return (
 		<ul className="pl-4">
 			
 {/* Home Navigation Icon */}
-			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-40 rounded-xl">
+			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
 					<a
 					href="/"
 					class="h-16 px-6 flex flex justify-center items-center w-full
