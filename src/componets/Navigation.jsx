@@ -17,7 +17,6 @@ return (
 {/* Navigation */}
 
 
-  <div id="main" class="m-8 grid grid-row-2 grid-flow-col gap-1"> 
 	  <ul className="pl-4">
         <div class="bg-green-300 rounded-lg">
 		<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
@@ -39,7 +38,7 @@ return (
 					</svg>
 					</a>
 			</li>
-</div> 
+	</div> 
         <div class="bg-green-300 rounded-lg">
 		{/* Home Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
@@ -133,8 +132,8 @@ return (
 			</li>
 	</div> 
       </ul>
-    </div> 
-</div>
+
+
 		
 
 </aside>
