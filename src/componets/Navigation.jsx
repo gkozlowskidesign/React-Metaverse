@@ -5,19 +5,12 @@ return (
 <div class="w-full flex  bg-black items-center  jusitfy-center mx-auto">
 	<aside class="flex flex-col  bg-black text-gray-700">
 	
-{/* Navigation Top Icon */}
-		<div class="h-16 flex items-center w-full">
-			<a class="w-full mx-auto" href="https://metaverseot.xyz/">
-			<img
-			class="w-10 mx-auto"
-			src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true"
-			alt="MetaverseOfThings Logo" />
-			</a>
-		
+
 {/* Navigation */}
 
 
 	  <ul className="pl-4 m-8 grid grid-row-3 grid-flow-col gap-1">
+		  
         <div class="bg-green-300 rounded-lg">
 		<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
 					<a
@@ -135,7 +128,7 @@ return (
 
 
 		
-</div>
+
 </aside>
 {/* Navigation Title Text */}
 		<div class="mx-auto flex flex-col">
