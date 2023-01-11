@@ -3,7 +3,7 @@ import 'flowbite';
 const Navigation = () => {
 return (
 <div class="w-full flex  bg-black items-center  jusitfy-center mx-auto">
-	<aside class="flex flex-col items-center  bg-black text-gray-700">
+	<aside class="flex flex-col  bg-black text-gray-700">
 	
 {/* Navigation Top Icon */}
 		<div class="h-16 flex items-center w-full">
@@ -15,9 +15,33 @@ return (
 			</a>
 		</div>
 {/* Navigation */}
-		<ul className="pl-4">
-			
-{/* Home Navigation Icon */}
+
+
+  <div id="main" class="m-8 grid grid-row-2 grid-flow-col gap-1"> 
+	  <ul className="pl-4">
+        <div class="bg-green-300 rounded-lg">
+		<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
+					<a
+					href="/"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-white">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none" viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+					<path stroke-linecap="round" 
+					stroke-linejoin="round" 
+					d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 
+					12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 
+					1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 
+					0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+					</svg>
+					</a>
+			</li>
+</div> 
+        <div class="bg-green-300 rounded-lg">
+		{/* Home Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
 					<a
 					href="/"
@@ -37,6 +61,37 @@ return (
 					</svg>
 					</a>
 			</li>
+</div> 
+        <div class="bg-green-300 rounded-lg">{/* Dashboard Navigation Icon */}
+			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
+					<a
+					href="/foundation"
+					class="h-16 px-6 flex flex justify-center items-center w-full
+					focus:text-white">
+					<svg xmlns="http://www.w3.org/2000/svg" 
+					fill="none"
+					viewBox="0 0 24 24" 
+					stroke-width="1.5" 
+					stroke="currentColor" 
+					class="w-6 h-6">
+					<path stroke-linecap="round" 
+					stroke-linejoin="round" 
+					d="M13.5 16.875h3.375m0 0h3.375m-3.375 0V13.5m0 3.375v3.375M6 10.5h2.25a2.25 
+					2.25 0 002.25-2.25V6a2.25 2.25 0 00-2.25-2.25H6A2.25 2.25 0 003.75 6v2.25A2.25 2.25 
+					0 006 10.5zm0 9.75h2.25A2.25 2.25 0 0010.5 18v-2.25a2.25 2.25 0 00-2.25-2.25H6a2.25 
+					2.25 0 00-2.25 2.25V18A2.25 2.25 0 006 20.25zm9.75-9.75H18a2.25 2.25 0 002.25-2.25V6A2.25 
+					2.25 0 0018 3.75h-2.25A2.25 2.25 0 0013.5 6v2.25a2.25 2.25 0 002.25 2.25z" />
+					</svg>
+					</a>
+			</li>
+</div> 
+        <div class="bg-green-500 row-span-2 rounded-lg">4</div> 
+        <div class="bg-green-300 rounded-lg">5</div> 
+        <div class="bg-green-500 row-span-3 rounded-lg">6</div> 
+    </div> 
+		
+			
+
 {/* Dashboard Navigation Icon */}
 			<li class="ring-2 ring-black hover:ring-white hover:text-white mt-4 rounded-xl">
 					<a
