@@ -5,7 +5,15 @@ return (
 <div class="w-full flex  bg-black items-center  jusitfy-center mx-auto">
 	<aside class="flex flex-col  bg-black text-gray-700">
 	
-
+{/* Navigation Top Icon */}
+		<div class="h-16 flex items-center w-full">
+			<a class="w-full mx-auto" href="https://metaverseot.xyz/">
+			<img
+			class="w-10 mx-auto"
+			src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true"
+			alt="MetaverseOfThings Logo" />
+			</a>
+		</div>
 {/* Navigation */}
 
 
@@ -131,15 +139,7 @@ return (
 
 </aside>
 {/* Navigation Title Text */}
-		<div class="mx-auto flex flex-col">
-			
-
-			<section className='invisible lg:visible'>
-			<h1 className="mb-2 text-[3rem] font-bold font-extrabold text-transparent text-3xl sm:text-5xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300">Metaverse <br></br>
-			<span className='bg-clip-text bg-gradient-to-r from-purple-700 to-pink-300'>of Things</span>
-			</h1>
-			</section>
-		</div>
+	
 </div>)};
 export default Navigation
             
