@@ -17,7 +17,7 @@ return (
 {/* Navigation */}
 
 
-	  <ul className="pl-4">
+	  <ul className="pl-4 m-8 grid grid-row-3 grid-flow-col gap-1">
         <div class="bg-green-300 rounded-lg">
 		<li class="ring-2 ring-black hover:ring-white hover:text-white mt-20 rounded-xl">
 					<a
