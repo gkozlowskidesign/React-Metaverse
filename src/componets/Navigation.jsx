@@ -13,7 +13,7 @@ return (
 			src="https://github.com/gkozlowskidesign/MetaverseOfThings---REACT-Website/blob/Branch_1-7-2023/MVOT%20LOGO%20copy.png?raw=true"
 			alt="MetaverseOfThings Logo" />
 			</a>
-		</div>
+		
 {/* Navigation */}
 
 
@@ -135,7 +135,7 @@ return (
 
 
 		
-
+</div>
 </aside>
 {/* Navigation Title Text */}
 		<div class="mx-auto flex flex-col">
